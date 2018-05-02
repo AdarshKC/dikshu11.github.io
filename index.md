@@ -4,8 +4,6 @@ You can use the [editor on GitHub](https://github.com/dikshu11/Diksha.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-title: Diksha Bansal
-description: I've never been one of those programmers that works effectively on short amounts of sleep. I've always needed eight hours.
 
 ### Markdown
 
