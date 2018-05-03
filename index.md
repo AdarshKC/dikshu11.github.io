@@ -9,7 +9,7 @@
 * [uva](http://uhunt.onlinejudge.org/id/948543)
 * [a20j](https://a2oj.com/profile?Username=Diksha11_)
 
-**Competitve Programming Journal **
+**Competitve Programming Journal**
 
 
 
