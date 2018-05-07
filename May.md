@@ -23,7 +23,7 @@
 * [Read about priority queue](https://www.geeksforgeeks.org/implement-min-heap-using-stl/)
   - Solved [Argus 1203](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=3644&mosmsg=Submission+received+with+ID+21275372) :          [Submission](/Argus_1203.cpp/)
   - Solved [Add all 10954](https://uva.onlinejudge.org/external/109/10954.pdf) : [Submission](/Add_all_10954.cpp/)
-  - Solved [I can guess the data structure 11995](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=3146&mosmsg=Submission+received+with+ID+21276833) : [Submission](/I_can_guess_tht_data_structure.cpp/)
+  - Solved [I can guess the data structure 11995](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=3146&mosmsg=Submission+received+with+ID+21276833) : [Submission](/I_can_guess_the_data_structure.cpp/)
   
   
   
