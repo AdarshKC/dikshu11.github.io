@@ -28,9 +28,9 @@
 ## 8 May
 
 * [Read about set](https://www.geeksforgeeks.org/set-in-cpp-stl/)
-  - Solved uva problem [11849 - CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=2949&mosmsg=Submission+received+with+ID+21277088) : Submission[dikshu11.github.io/uva chapter2/11849-CD.cpp]
-  - Solved uva problem [11136 - Hoax or what](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=2077&mosmsg=Submission+received+with+ID+21278766) : Submission[dikshu11.github.io/uva chapter2/Hoax_or_what_11136.cpp]
-  - Solved uva problem [978 - Lemmings battle](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=919) : Submission[dikshu11.github.io/uva chapter2/Lemmings_battle_978.cpp]
+  - Solved uva problem [11849 - CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=2949&mosmsg=Submission+received+with+ID+21277088) : [Submission](dikshu11.github.io/uva chapter2/11849-CD.cpp)
+  - Solved uva problem [11136 - Hoax or what](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=2077&mosmsg=Submission+received+with+ID+21278766) : [Submission](dikshu11.github.io/uva chapter2/Hoax_or_what_11136.cpp)
+  - Solved uva problem [978 - Lemmings battle](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=919) : [Submission](dikshu11.github.io/uva chapter2/Lemmings_battle_978.cpp)
 * Solved Hackerrank problem  [Queries with fixed length](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem) : [Submission](https://www.hackerrank.com/challenges/queries-with-fixed-length/submissions/code/72349532)
   
   
