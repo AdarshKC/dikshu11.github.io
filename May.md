@@ -25,6 +25,13 @@
   - Solved [Add all 10954](https://uva.onlinejudge.org/external/109/10954.pdf) : [Submission](/uva chapter2/Add_all_10954.cpp/)
   - Solved [I can guess the data structure 11995](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=3146&mosmsg=Submission+received+with+ID+21276833) : [Submission](/uva chapter2/I_can_guess_the_data_structure_11995.cpp/)
   
+## 8 May
+
+* [Read about set](https://www.geeksforgeeks.org/set-in-cpp-stl/)
+  - Solved uva problem [11849 - CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=2949&mosmsg=Submission+received+with+ID+21277088) : Submission[/uva chapter2/11849-CD.cpp]
+  - Solved uva problem [11136 - Hoax or what](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=2077&mosmsg=Submission+received+with+ID+21278766) : Submission[/uva chapter2/Hoax_or_what_11136.cpp]
+  - Solved uva problem [978 - Lemmings battle](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=919) : Submission[/uva chapter2/Lemmings_battle_978.cpp]
+  
   
   
           
