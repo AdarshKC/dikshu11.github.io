@@ -38,6 +38,11 @@
      > In this problem, I got TLE and Runtime error many times. First I got runtime error since I declared size of array less than required. I declared it 10^5+5 but required was 2*(10^5). I thought problem was with initialization of array and I initialised array till 10^5 for each test case. Got TLE . Finally realised correct size and initialised according to problem. Got TLE. Didn't initialised. Got TLE. Then to find value of key in map, earlier I was using for loop, changed it to map.find() and solution was accepted. GOOD QUESTION.
   - solved uva problem [Network Connection 793](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=734) : [Submission](dikshu11.github.io/uva chapter2/Network_Connection793.cpp)
      > Learned about **sscanf** as required to read some char and integers from a string
+     
+ ## 9 May
+ 
+ * Solved uva problem [Waking up brain 10507](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1448) : [Submission](dikshu11.github.io/uva chapter2/Waking_up_brain10507.cpp))
+    > Problem language was difficult to understand. I tried using disjoint Set Union but ended using adjacency vector. 
   
   
   
