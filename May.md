@@ -43,6 +43,7 @@
  
  * Solved uva problem [Waking up brain 10507](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1448) : [Submission](dikshu11.github.io/uva chapter2/Waking_up_brain10507.cpp))
     > Problem language was difficult to understand. I tried using disjoint Set Union but ended using adjacency vector. 
+ * Solved uva graph problem  [Easy problem from Rujia liu 11991]() : [Submission]((dikshu11.github.io/uva chapter2/Easy_problem_from_Rujia_liu11991.cpp)
   
   
   
