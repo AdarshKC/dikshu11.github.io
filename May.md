@@ -39,9 +39,9 @@
   - solved uva problem [Network Connection 793](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=734) : [Submission](dikshu11.github.io/uva chapter2/Network_Connection793.cpp)
      > Learned about **sscanf** as required to read some char and integers from a string
      
- ##  9 May
+ ## 9 May
  
- * Solved uva problem [Waking up brain 10507](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1448) : [Submission](dikshu11.github.io/uva chapter2/Waking_up_brain10507.cpp))
+ * Solved uva problem [Waking up brain 10507](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1448) : [Submission](dikshu11.github.io/uva chapter2/Waking_up_brain10507.cpp)
     > Problem language was difficult to understand. I tried using disjoint Set Union but ended using adjacency vector. 
  * Solved uva graph problem  [Easy problem from Rujia liu 11991](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=3142&mosmsg=Submission+received+with+ID+21287114) : [Submission](dikshu11.github.io/uva chapter2/Easy_problem_from_Rujia_liu11991.cpp)
  * Solved uva graph problem [The Forrest for the Trees 599](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=540) : [Submission](dikshu11.github.io/uva chapter2/The_Forrest_for_the_Trees599.cpp)
