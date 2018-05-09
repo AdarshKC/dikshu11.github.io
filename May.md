@@ -39,7 +39,7 @@
   - solved uva problem [Network Connection 793](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=734) : [Submission](dikshu11.github.io/uva chapter2/Network_Connection793.cpp)
      > Learned about **sscanf** as required to read some char and integers from a string
      
- ## 9 May
+ ##  9 May
  
  * Solved uva problem [Waking up brain 10507](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1448) : [Submission](dikshu11.github.io/uva chapter2/Waking_up_brain10507.cpp))
     > Problem language was difficult to understand. I tried using disjoint Set Union but ended using adjacency vector. 
