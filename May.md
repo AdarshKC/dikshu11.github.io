@@ -50,6 +50,10 @@
     > Got presentation error because I printed " "(space) before endl. UVA problem. Used concept of adjacency matrix and adjacency list. 
     > * Happy to solve basic graph problem without revising. Did graph problems in December. Forgot most of things though solved these question 
   
+## 10 May
+
+* Solved [Splitting numbers 11933](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3084) : [Submission](dikshu11.github.io/uva chapter2/Splitting numbers 11933.cpp)
+* Solved [Jolly Jumpers 10038](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=979) : [Submissionn](dikshu11.github.io/uva chapter2/Jolly Jumpers 10038.cpp)
   
   
           
