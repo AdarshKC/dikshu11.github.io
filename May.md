@@ -54,7 +54,7 @@
 
 * Solved [Splitting numbers 11933](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3084) : [Submission](dikshu11.github.io/uva chapter2/Splitting numbers 11933.cpp)
 * Solved [Jolly Jumpers 10038](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=979) : [Submissionn](dikshu11.github.io/uva chapter2/Jolly Jumpers 10038.cpp)
-* Solved[Newspaper 11340](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2315) : [Submission](dikshu11.github.io/uva chapter2/Newspaper11340.cpp)
+* Solved  [Newspaper 11340](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2315) : [Submission](dikshu11.github.io/uva chapter2/Newspaper11340.cpp)
 * Solved [Army buddies 12356](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&prob) :[Submission](dikshu11.github.io/uva chapter2/12356.cpp/)
   
   
