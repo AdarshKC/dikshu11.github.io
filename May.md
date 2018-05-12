@@ -69,7 +69,7 @@
 ## 12 May
 
 * Solved Light OJ problem [1082 - Array Queries](http://www.lightoj.com/volume_showproblem.php?problem=1082) : [Submission](http://www.lightoj.com/volume_showcode.php?sub_id=1227720)
-  
+* Solved Light OJ problem [1112 - Curious Robin Hood](http://www.lightoj.com/volume_showproblem.php?problem=1112)  : [Submission](http://www.lightoj.com/volume_usersubmissions.php)
   
           
        
