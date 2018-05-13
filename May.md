@@ -77,6 +77,7 @@
 * Solved uva problem [Rails 514](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=455) : [Submission](uva chapter2/Rails 514.cpp)
 * Solved uva problem [spiral tap 10920](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1861) : [Submission](uva chapter2/spiral tap10920.cpp)
    > Using hints from blog, I finally did this question.
+* Solved uva problem [Interval product 12532](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3977) : [Submission](uva chapter2/Interval product 12532.cpp)
           
        
           
