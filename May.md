@@ -75,6 +75,8 @@
 
 * Solved uva problem [The most potent corner 10264](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1205) : [Submission](uva chapter2/The most potent corner 10264.cpp) with help of friend.
 * Solved uva problem [Rails 514](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=455) : [Submission](uva chapter2/Rails 514.cpp)
+* Solved uva problem[spiral tap 10920](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1861) : [Submission](uva chapter2/spiral tap10920.cpp)
+ > Using hints from blog, I finally did this question.
           
        
           
