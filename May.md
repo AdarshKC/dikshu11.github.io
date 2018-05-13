@@ -58,8 +58,22 @@
 * Solved [Army buddies 12356](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&prob) :[Submission](dikshu11.github.io/uva chapter2/12356.cpp)
 * Solved [Contest Scooreboard 10258](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=24&problem=1199&mosmsg=Submission+received+with+ID+21295168) : [Submission](dikshu11.github.io/uva chapter2/10258.cpp)
    > Unable to present the output. Took help of a freind.
+   
+   
+## 11 May
+* Solved uva problem[ ID Codes 146](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=82) : [Submission](dikshu11.github.io/uva chapter2/146.cpp)
+* Solved uva problem[What is Median 10107](https://uva.onlinejudge.org/external/101/10107.pdf)  : [Submission](dikshu11.github.io/uva chapter2/10107.cpp)
+* [Read about segment trees](https://www.youtube.com/watch?v=ZBHKZF5w4YU)
+   > Feeling a bit low
   
+## 12 May
+
+* Solved Light OJ problem [1082 - Array Queries](http://www.lightoj.com/volume_showproblem.php?problem=1082) : [Submission](http://www.lightoj.com/volume_showcode.php?sub_id=1227720)
+* Solved Light OJ problem [1112 - Curious Robin Hood](http://www.lightoj.com/volume_showproblem.php?problem=1112)  : [Submission](http://www.lightoj.com/volume_usersubmissions.php)
   
+## 13 May
+
+* Solved uva problem [The most potent corner 10264](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1205) : [Submission](uva chapter2/The most potent corner 10264.cpp) with help of friend.
           
        
           
