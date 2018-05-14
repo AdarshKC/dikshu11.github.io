@@ -79,6 +79,9 @@
    > Using hints from blog, I finally did this question.
 * Solved uva problem [Interval product 12532](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3977) : [Submission](uva chapter2/Interval product 12532.cpp)
           
+          
+## 14 May
+* Solved spoj problem [Horrible quaries](http://www.spoj.com/problems/HORRIBLE/) : [Submission](http://www.spoj.com/status/ns=21659395)
        
           
 
