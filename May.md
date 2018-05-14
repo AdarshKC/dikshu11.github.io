@@ -82,6 +82,8 @@
           
 ## 14 May
 * Solved spoj problem [Horrible quaries](http://www.spoj.com/problems/HORRIBLE/) : [Submission](http://www.spoj.com/status/ns=21659395)
+  > Learned Lazy propogation tree
+  > wasted complete day..
        
           
 
