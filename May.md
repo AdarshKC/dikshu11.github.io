@@ -84,6 +84,11 @@
 * Solved spoj problem [Horrible quaries](http://www.spoj.com/problems/HORRIBLE/) : [Submission](http://www.spoj.com/status/ns=21659395)
   > Learned Lazy propogation tree
   > wasted complete day..
+  
+## 18 May
+  > From 14, Laptop won't start.
+* Started Graphs.
+* Solved hackerearth problem [Learning Graph](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-learning-graph-3/) : [Submission](https://www.hackerearth.com/submission/16957251/)
        
           
 
