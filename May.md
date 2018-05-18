@@ -89,6 +89,7 @@
   > From 14, Laptop won't start.
 * Started Graphs.
 * Solved hackerearth problem [Learning Graph](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-learning-graph-3/) : [Submission](https://www.hackerearth.com/submission/16957251/)
+* Solved codeforces problem [930-A-Peculiar Apple Tree](http://codeforces.com/problemset/problem/930/A) : [Submission](https://ideone.com/xFVSY8)
        
           
 
