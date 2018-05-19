@@ -99,7 +99,8 @@
 
 * learned about [topological sort](https://www.youtube.com/watch?v=ddTC4Zovtbc&list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j)
   * Solved hackerearth que: Given a Directed and Acyclic Graph having N vertices and M edges, print lexicographically smallest one topological sorting of the vertices : [Submission](dikshu11.github.io/Topological sort.cpp)
-  * Solved spoj problem[topological sort](http://www.spoj.com/problems/TOPOSORT/) : [Submission](http://www.spoj.com/status/ns=21686889)
+  * Solved spoj problem [topological sort](http://www.spoj.com/problems/TOPOSORT/) : [Submission](http://www.spoj.com/status/ns=21686889)
+  * Solved uva problem [11060 - Beverages](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2001) : [Submission](https://ideone.com/ZtcQ2i)
        
           
 
