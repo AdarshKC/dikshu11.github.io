@@ -93,7 +93,7 @@
 * Started Graphs.
 * Solved hackerearth problem [Learning Graph](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-learning-graph-3/) : [Submission](https://www.hackerearth.com/submission/16957251/)
 * Solved codeforces problem [930-A-Peculiar Apple Tree](http://codeforces.com/problemset/problem/930/A) : [Submission](https://ideone.com/xFVSY8)
-* Solved uva problem [Dart-a-mania 735](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=676) : [Submission]()
+* Solved uva problem [Dart-a-mania 735](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=676) : [Submission](dikshu11.github.io/uva chapter2/735.cpp)
        
           
 
