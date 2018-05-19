@@ -103,6 +103,7 @@
   * Solved uva problem [11060 - Beverages](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2001) : [Submission](https://ideone.com/ZtcQ2i)
   
 * Solved uva problem [10102 - The path in the colored field](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1043) : [Submission](https://ideone.com/qnMSCC)
+* Solved uva problem [11565- Simple Equations](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2612) : [Submission](https://ideone.com/Vdf8lG)
        
           
 
