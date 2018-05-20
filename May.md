@@ -101,9 +101,12 @@
   * Solved hackerearth que: Given a Directed and Acyclic Graph having N vertices and M edges, print lexicographically smallest one topological sorting of the vertices : [Submission](dikshu11.github.io/Topological sort.cpp)
   * Solved spoj problem [topological sort](http://www.spoj.com/problems/TOPOSORT/) : [Submission](http://www.spoj.com/status/ns=21686889)
   * Solved uva problem [11060 - Beverages](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2001) : [Submission](https://ideone.com/ZtcQ2i)
-  
+ 
 * Solved uva problem [10102 - The path in the colored field](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1043) : [Submission](https://ideone.com/qnMSCC)
 * Solved uva problem [11565- Simple Equations](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2612) : [Submission](https://ideone.com/Vdf8lG)
+
+## 20 May
+* Used technique of recursive  backtracking to print all [string permutation](dikshu11.github.io/String permutation.cpp)
        
           
 
