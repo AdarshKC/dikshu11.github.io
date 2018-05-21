@@ -107,6 +107,10 @@
 
 ## 20 May
 * Used technique of recursive  backtracking to print all [string permutation](dikshu11.github.io/String permutation.cpp)
+
+## 21 May
+
+* Solved uva problem [Ordering-872](https://uva.onlinejudge.org/external/8/872.pdf) : [submission](dikshu11.github.io/uva chapter 4/872.cpp)
        
           
 
