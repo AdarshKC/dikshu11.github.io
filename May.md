@@ -108,13 +108,13 @@
 ## 20 May
 * Used technique of recursive  backtracking to print all [string permutation](dikshu11.github.io/String permutation.cpp)
 * Tried to solve spoj problem [
-NQUEEN - Yet Another N-Queen Problem](http://www.spoj.com/problems/NQUEEN/) : [Submission]() but got TLE. Since input are large , backtracking can't be used.
+NQUEEN - Yet Another N-Queen Problem](http://www.spoj.com/problems/NQUEEN/) : [Submission](dikshu11.github.io/spoj/NQUEEN.cpp) but got TLE. Since input are large , backtracking can't be used.
 
 ## 21 May
 
 * Solved uva problem [Ordering-872](https://uva.onlinejudge.org/external/8/872.pdf) : [submission](dikshu11.github.io/uva chapter 4/872.cpp)
 * Tried uva ques CD 624.
-* Solved que: [Print all subsequences of a string in a sorted order] : [Submission]()
+* Solved que: [Print all subsequences of a string in a sorted order] : [Submission](dikshu11.github.io/String Subsequences.cpp)
 
 ## 22 May
 * Finally solved uva que [624-CD](https://uva.onlinejudge.org/external/6/624.pdf) : [Submission](dikshu11.github.io/uva chapter3/CD.cpp)
