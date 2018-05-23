@@ -128,6 +128,7 @@ whole day.
 * Finally solved uva problem Sum It Up 574 : [Submission](dikshu11.github.io/uva chapter3/574.cpp)
    It was an easy problem but it took a lot of time because I was printing in wrong order. Took help of a freind to find         error in questions.
 * Solved uva problem [10503 The dominoes solitaire](https://uva.onlinejudge.org/external/105/10503.pdf) : [Submission](dikshu11.github.io/uva chapter3/10503.cpp)
+* Solved uva problem [193 Graph colouring](https://uva.onlinejudge.org/external/1/193.pdf) : [Submission](dikshu11.github.io/uva chapter3/193.cpp)
        
           
 
