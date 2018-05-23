@@ -125,8 +125,8 @@ whole day.
 
 
 ## 23 May
-Finally solved uva problem Sum It Up 574 : [Submission](dikshu11.github.io/uva chapter3/574.cpp
-It was an easy problem but it took a lot of time because I was printing in wrong order. Took help of a freind to find error in questions.
+* Finally solved uva problem Sum It Up 574 : [Submission](dikshu11.github.io/uva chapter3/574.cpp
+   It was an easy problem but it took a lot of time because I was printing in wrong order. Took help of a freind to find         error in questions.
        
           
 
