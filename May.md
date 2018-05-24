@@ -133,6 +133,7 @@ whole day.
 
 ## 24 May
 * Finally solved [1262- Password](https://uva.onlinejudge.org/external/12/1262.pdf) : [submission](dikshu11.github.io/uva chapter3/1262 Password.cpp)
-  > It tooak a lot of time. I submitted this problem 8 times with many different approaches. But all the time, It was showing TLE. Finally I tried another waw and it was accepted.
+  > It tooak a lot of time. I submitted this problem 8 times with many different approaches. But all the time, It was showing TLE. Finally I tried another way and it was accepted.
+* Solved [11507 Exact Sum](https://uva.onlinejudge.org/external/110/11057.pdf) : [Submission](dikshu11.github.io/uva chapter3/11057.cpp)
 
   
