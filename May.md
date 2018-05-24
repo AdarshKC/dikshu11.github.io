@@ -129,7 +129,10 @@ whole day.
    It was an easy problem but it took a lot of time because I was printing in wrong order. Took help of a freind to find         error in questions.
 * Solved uva problem [10503 The dominoes solitaire](https://uva.onlinejudge.org/external/105/10503.pdf) : [Submission](dikshu11.github.io/uva chapter3/10503.cpp)
 * Solved uva problem [193 Graph colouring](https://uva.onlinejudge.org/external/1/193.pdf) : [Submission](dikshu11.github.io/uva chapter3/193.cpp)
-       
-          
+* Tried uva problem [1262 - Password]
+
+## 24 May
+* Finally solved [1262- Password](https://uva.onlinejudge.org/external/12/1262.pdf) : [submission](dikshu11.github.io/uva chapter3/1262 Password.cpp)
+  > It tooak a lot of time. I submitted this problem 8 times with many different approaches. But all the time, It was showing TLE. Finally I tried another waw and it was accepted.
 
   
