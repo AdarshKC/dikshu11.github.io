@@ -138,7 +138,8 @@ whole day.
 
 
 ## 25 May
-* Solved uva problem [https://uva.onlinejudge.org/external/105/10567.pdf](https://uva.onlinejudge.org/external/105/10567.pdf) : [Submission](dikshu11.github.io/uva chapter3/10567.cpp)
+* Solved uva problem [10567 Solve it](https://uva.onlinejudge.org/external/105/10567.pdf) : [Submission](dikshu11.github.io/uva chapter3/10567.cpp)
+* Solved uva problem [12032 The Monkey and the Oiled Bamboo](https://uva.onlinejudge.org/external/120/12032.pdf) : [Submission](dikshu11.github.io/uva chapter3/12032.cpp)
   > Feeling lazy and less motivated.
 
   
