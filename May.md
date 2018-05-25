@@ -136,4 +136,9 @@ whole day.
   > It tooak a lot of time. I submitted this problem 8 times with many different approaches. But all the time, It was showing TLE. Finally I tried another way and it was accepted.
 * Solved [11507 Exact Sum](https://uva.onlinejudge.org/external/110/11057.pdf) : [Submission](dikshu11.github.io/uva chapter3/11057.cpp)
 
+
+## 25 May
+* Solved uva problem [https://uva.onlinejudge.org/external/105/10567.pdf](https://uva.onlinejudge.org/external/105/10567.pdf) : [Submission](dikshu11.github.io/uva chapter3/10567.cpp)
+  > Feeling lazy and less motivated.
+
   
