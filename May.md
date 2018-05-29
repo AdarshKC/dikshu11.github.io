@@ -142,4 +142,12 @@ whole day.
 * Solved uva problem [12032 The Monkey and the Oiled Bamboo](https://uva.onlinejudge.org/external/120/12032.pdf) : [Submission](dikshu11.github.io/uva chapter3/12032.cpp)
   > Feeling lazy and less motivated.
 
+
+## 27 May
+
+* Gave [Avito Code Challenge](http://codeforces.com/contest/981) :
+  * Solved two question
+    * [Antipalindrome](http://codeforces.com/contest/981/problem/A) : [Submission](https://ideone.com/SWEc9Z)
+    * [B. Businessmen Problems](http://codeforces.com/contest/981/problem/B) : [Submission](https://ideone.com/ywKUVb) : ppretest third failed but when I changed int to long long, it was accepted.
+  * Rating 1382 -> 1338
   
