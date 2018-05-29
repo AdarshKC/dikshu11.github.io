@@ -151,3 +151,7 @@ whole day.
     * [B. Businessmen Problems](http://codeforces.com/contest/981/problem/B) : [Submission](https://ideone.com/ywKUVb) : ppretest third failed but when I changed int to long long, it was accepted.
   * Rating 1382 -> 1338
   
+##  29 May
+
+* Solved [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0) :[Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=6163940&pid=909&user=diksha11_)
+  
