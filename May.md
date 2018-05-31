@@ -161,4 +161,4 @@ whole day.
 
 ## 31 May
 * Solved [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)  : [Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=6204166&pid=351&user=diksha11_)
-  
+* Solved [Optimal Binary Search Tree](10304 - Optimal Binary Search Tree) : [Submission](https://ideone.com/yDnJ0f)
