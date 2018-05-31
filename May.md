@@ -155,4 +155,10 @@ whole day.
 
 * Solved [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0) :[Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=6163940&pid=909&user=diksha11_)
 * Solved [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0) : [Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=6164771&pid=152&user=diksha11_)
+
+## 30 May
+* Learned about matrix chain multipication using dynamic programming.
+
+## 31 May
+* Solved [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)  : [Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=6204166&pid=351&user=diksha11_)
   
