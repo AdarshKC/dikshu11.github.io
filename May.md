@@ -161,5 +161,5 @@ whole day.
 
 ## 31 May
 * Solved [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)  : [Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=6204166&pid=351&user=diksha11_)
-* Solved [Optimal Binary Search Tree](10304 - Optimal Binary Search Tree) : [Submission](https://ideone.com/yDnJ0f)
+* Solved [Optimal Binary Search Tree](https://uva.onlinejudge.org/external/103/10304.pdf) : [Submission](https://ideone.com/yDnJ0f)
 * Solved [Number of Coins](https://practice.geeksforgeeks.org/problems/number-of-coins/0) : [Submission](https://practice.geeksforgeeks.org/viewSol.php?subId=6211800&pid=364&user=diksha11_)
