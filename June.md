@@ -9,5 +9,5 @@
 ## 2 June
 * Solved uva problem [10684 The Jackpot](https://uva.onlinejudge.org/external/106/10684.pdf) : [Submission](uva chapter3/10684.cpp)
 
-## # JUNE
+## 3 June
 * Solved uva problem [108 Maximum Sum](https://uva.onlinejudge.org/external/1/108.pdf) : [Submission](uva chapter3/108.cpp)
