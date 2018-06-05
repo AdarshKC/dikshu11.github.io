@@ -11,6 +11,8 @@
 
 ## 3 June
 * Solved uva problem [108 Maximum Sum](https://uva.onlinejudge.org/external/1/108.pdf) : [Submission](uva chapter3/108.cpp)
+* Tried uva problem [787 Maximum Sub-sequence Product](https://uva.onlinejudge.org/external/7/787.pdf) : [Wrong Submission](uva chapter3/787.cpp)
+  > this qusation is regarding multipication of large numbers which can't be stored in long long int.Storing numbers is main problem.
 
 ## 4 June
 * Solved uva problem [10827 Maximum sum on a torus](https://uva.onlinejudge.org/external/108/10827.pdf) : [Submission](uva chapter3/10827.cpp)
