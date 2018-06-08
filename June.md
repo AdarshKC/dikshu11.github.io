@@ -27,3 +27,4 @@
 
 ## 8 June
 * Solved uva problem [11389 - The Bus Driver Problem](https://uva.onlinejudge.org/external/113/11389.pdf) : [Submission](uva chapter3/11389.cpp)
+* Solved uva problem [12405 Scarecrow](https://uva.onlinejudge.org/external/124/12405.pdf) : [Submission](uva chapter3/12405.cpp)
