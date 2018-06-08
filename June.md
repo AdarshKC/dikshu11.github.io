@@ -20,3 +20,7 @@
 
 ##  5 June
 * Solved uva problem [481 What Goes Up](https://uva.onlinejudge.org/external/4/481.pdf) : [Submission](uva chapter3/481.cpp)
+
+
+## 7 June
+* Solved uva problem [11831 Sticker Collector Robots](https://uva.onlinejudge.org/external/118/11831.pdf) : [Submission](uva chapter3/11831.cpp)
