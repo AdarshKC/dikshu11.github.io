@@ -41,5 +41,5 @@
     * Solved [A Tide of Riverscape](http://codeforces.com/contest/989/problem/B) : [Submission](dikshu11.github.io/codeforces/989B.cpp)
         Rating 1275 -> 1327  Rank 1905
         
- * Codechef [June Long]() Results:
+ * Codechef [June Long](https://www.codechef.com/JUNE18B) Results:
      Rating 1619->1768   Rank: 778  Score: 350
