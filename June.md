@@ -2,7 +2,7 @@
 
 * Gave codeforces div3 round.. Got wrong ans on pretest in que2 , Runtime error on pretest in que 3, accepted in que1
   Could solve 2nd and 3rd question eaily. Did simple errors.
-  Rating 1338 ->1275.
+  Rating 1338 ->1275. Rank 3253
 * Started Codechef Long
 
 
@@ -32,3 +32,11 @@
 
 ## 9 June
 * Solved uva problem [11790 Murcia’s Skyline](https://uva.onlinejudge.org/external/117/11790.pdf) : [Submission](uva chapter3/11790.cpp)
+
+## 11 June
+
+* Gave [Codeforces Round #487 (Div. 2) ](http://codeforces.com/contest/989):
+  * Solved two questions:
+    * Solved [A Blend of Springtime](http://codeforces.com/contest/989/problem/A) : [Submission]()
+    * Solved [A Tide of Riverscape](http://codeforces.com/contest/989/problem/B) : [Submission]()
+        Rating 1275 -> 1327  Rank 1905
