@@ -37,6 +37,9 @@
 
 * Gave [Codeforces Round #487 (Div. 2) ](http://codeforces.com/contest/989):
   * Solved two questions:
-    * Solved [A Blend of Springtime](http://codeforces.com/contest/989/problem/A) : [Submission]()
-    * Solved [A Tide of Riverscape](http://codeforces.com/contest/989/problem/B) : [Submission]()
+    * Solved [A Blend of Springtime](http://codeforces.com/contest/989/problem/A) : [Submission](dikshu11.github.io/codeforces/989A.cpp)
+    * Solved [A Tide of Riverscape](http://codeforces.com/contest/989/problem/B) : [Submission](dikshu11.github.io/codeforces/989B.cpp)
         Rating 1275 -> 1327  Rank 1905
+        
+ * Codechef [June Long]() Results:
+     Rating 1619->1768   Rank: 778  Score: 350
