@@ -43,3 +43,13 @@
         
  * Codechef [June Long](https://www.codechef.com/JUNE18B) Results:
      Rating 1619->1768   Rank: 778  Score: 350
+   
+ ## 16 June
+ 
+ * Gave [Codeforces Round #488 by NEAR (Div. 2)](http://codeforces.com/contest/994):
+  * Solved two questions:
+    * Solved [A. Fingerprints](http://codeforces.com/contest/994/problem/A) : [Submission](dikshu11.github.io/codeforces/994A.cpp)
+    * Solved [B. Knights of a Polygonal Table](http://codeforces.com/contest/994/problem/B) : [Submission](dikshu11.github.io/codeforces/994B.cpp)
+    
+    Rating 1327 -> 	1368  Rank 1328
+ 
