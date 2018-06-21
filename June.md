@@ -53,3 +53,6 @@
     
     Rating 1327 -> 	1368  Rank 1328
  
+ 
+ ## 20 JUne
+ * solved uva problem [357 Let Me Count The Ways](https://uva.onlinejudge.org/external/3/357.pdf) : [Submission](uva chapter3/357.cpp)
