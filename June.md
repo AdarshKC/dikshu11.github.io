@@ -57,6 +57,17 @@
  ## 20 June
  * solved uva problem [357 Let Me Count The Ways](https://uva.onlinejudge.org/external/3/357.pdf) : [Submission](uva chapter3/357.cpp)
  
+ ## 21 June
+ 
+ * Gave [Codeforces Round #490 (Div. 3)](http://codeforces.com/contest/999):
+    * solved three question:
+      * Solved [A. Mishka and Contest](http://codeforces.com/contest/999/problem/A) : [Submission](dikshu11.github.io/codeforces/999A.cpp)
+      * Solved [B. Reversing Encryption](http://codeforces.com/contest/999/problem/B) : [Submission](dikshu11.github.io/codeforces/999B.cpp)
+      * Solved [C. Alphabetic Removals](http://codeforces.com/contest/999/problem/C) : [Submission](dikshu11.github.io/codeforces/999C.cpp)
+      
+      Rating 1368-> 1387 Rank 	1260
+    
+ 
  ## 22 Jue
  * solved hackerearth problem [Xsquare And Coin Collection](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-coin-collection-2/) : [Submission](https://www.hackerearth.com/submission/17716707/)
  
