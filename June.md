@@ -54,5 +54,8 @@
     Rating 1327 -> 	1368  Rank 1328
  
  
- ## 20 JUne
+ ## 20 June
  * solved uva problem [357 Let Me Count The Ways](https://uva.onlinejudge.org/external/3/357.pdf) : [Submission](uva chapter3/357.cpp)
+ 
+ ## 22 Jue
+ * solved hackerearth problem [Xsquare And Coin Collection](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-coin-collection-2/) : [Submission](https://www.hackerearth.com/submission/17716707/)
