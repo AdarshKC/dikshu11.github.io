@@ -70,5 +70,5 @@
  
  ## 22 Jue
  * solved hackerearth problem [Xsquare And Coin Collection](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-coin-collection-2/) : [Submission](https://www.hackerearth.com/submission/17716707/)
- 
+* solved hackerearth problem [Roy and Ropes](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/roy-and-ropes/) : [Submission](https://www.hackerearth.com/submission/17720872/)
 * solved hackerearth problem [Xsquare And Two Arrays](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-two-arrays/) : [Submission](https://www.hackerearth.com/submission/17719469/)
