@@ -79,3 +79,4 @@
 ## 23 June
 * solved hackerearth problem [Let's Begin!](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/lets-begin/) : [Submission](https://www.hackerearth.com/submission/17744029/)
 * solved hackerearth problem [Help Patwari](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/help-patwari/) : [Submission](https://www.hackerearth.com/submission/17745876/)
+* solved hackerearth problem [Equal Array](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/equal-array-84cf6c5f/) : [Submission](https://www.hackerearth.com/submission/17746139/)
