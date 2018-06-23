@@ -42,7 +42,9 @@
         Rating 1275 -> 1327  Rank 1905
         
  * Codechef [June Long](https://www.codechef.com/JUNE18B) Results:
-     Rating 1619->1768   Rank: 778  Score: 350
+     Rating 1619-> 1768   Rank: 778  Score: 350
+   
+   
    
  ## 16 June
  
@@ -75,4 +77,4 @@
 
 
 ## 23 June
-* sOlved hackerearth problem [Let's Begin!](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/lets-begin/) : [Submission](https://www.hackerearth.com/submission/17744029/)
+* solved hackerearth problem [Let's Begin!](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/lets-begin/) : [Submission](https://www.hackerearth.com/submission/17744029/)
