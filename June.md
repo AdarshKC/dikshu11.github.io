@@ -99,3 +99,5 @@
 * solved hackerearth problem  [Prime Numbers Again](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/prime-numbers-again/) : [Submission](https://www.hackerearth.com/submission/17758440/)
 
 * solved hackerearth problem [Counting Number of Ways](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hp-and-counting-number-of-ways-1d73a6a4/) : [Submission](https://www.hackerearth.com/submission/17760217/)
+
+* solved hackerearth problem [Choosing the Judges](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/choosing-the-judges-7/) : [Submission](https://www.hackerearth.com/submission/17763746/)
