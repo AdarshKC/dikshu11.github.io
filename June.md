@@ -84,7 +84,9 @@
 
 ## 24 June
 
-* solved hackereart problem [Leaf and Limelight Attack](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/leaf-and-limelight-attack-circuit/description/) : [Submission](https://www.hackerearth.com/submission/17756930/)
+* solved hackerearth problem [Leaf and Limelight Attack](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/leaf-and-limelight-attack-circuit/description/) : [Submission](https://www.hackerearth.com/submission/17756930/)
   * Since we are taking modulus 10^9+9, first we need to check if a[i]<0. if it is, add M. I passed many testcases except 4 but couldn't find it. so finally saw the editorial.
   
-* solved hackereart problem  [Prime Numbers Again](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/prime-numbers-again/) : [Submission](https://www.hackerearth.com/submission/17758440/)
+* solved hackerearth problem  [Prime Numbers Again](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/prime-numbers-again/) : [Submission](https://www.hackerearth.com/submission/17758440/)
+
+* solved hackerearth problem [Counting Number of Ways](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hp-and-counting-number-of-ways-1d73a6a4/) : [Submission](https://www.hackerearth.com/submission/17760217/)
