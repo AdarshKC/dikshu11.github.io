@@ -81,7 +81,16 @@
 * solved hackerearth problem [Help Patwari](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/help-patwari/) : [Submission](https://www.hackerearth.com/submission/17745876/)
 * solved hackerearth problem [Equal Array](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/equal-array-84cf6c5f/) : [Submission](https://www.hackerearth.com/submission/17746139/)
 
-
+* Gave [Codeforces Round #491 (Div. 2)](http://codeforces.com/contest/991):
+  * Solved two questions:
+    * Solved [A - If at first you don't succeed](http://codeforces.com/contest/991/problem/A) : [Submission](dikshu11.github.io/codeforces/991A.cpp)
+    * Solved [B - Getting an A](http://codeforces.com/contest/991/problem/B) : [Submission](dikshu11.github.io/codeforces/991B.cpp) : did three wrong submission , wrote same code in different way , it was accepted.
+    
+    Rating : 1387 → 1343 Rank: 3083
+    * Did many wrong submission of third que. After contest, I changed it little bit ansd it was accepted. 
+      * que [C - Candies](http://codeforces.com/contest/991/problem/C) : [Submission](dikshu11.github.io/codeforces/991C.cpp)
+      
+    
 ## 24 June
 
 * solved hackerearth problem [Leaf and Limelight Attack](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/leaf-and-limelight-attack-circuit/description/) : [Submission](https://www.hackerearth.com/submission/17756930/)
