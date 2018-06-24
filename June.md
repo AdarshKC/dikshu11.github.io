@@ -80,3 +80,9 @@
 * solved hackerearth problem [Let's Begin!](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/lets-begin/) : [Submission](https://www.hackerearth.com/submission/17744029/)
 * solved hackerearth problem [Help Patwari](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/help-patwari/) : [Submission](https://www.hackerearth.com/submission/17745876/)
 * solved hackerearth problem [Equal Array](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/equal-array-84cf6c5f/) : [Submission](https://www.hackerearth.com/submission/17746139/)
+
+
+## 24 June
+
+* solved hackereart problem [Leaf and Limelight Attack](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/leaf-and-limelight-attack-circuit/description/) : [Submission](https://www.hackerearth.com/submission/17756930/)
+  * Since we are taking modulus 10^9+9, first we need to check if a[i]<0. if it is, add M. I passed many testcases except 4 but couldn't find it. so finally saw the editorial.
