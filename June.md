@@ -103,3 +103,9 @@
 * solved hackerearth problem [Choosing the Judges](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/choosing-the-judges-7/) : [Submission](https://www.hackerearth.com/submission/17763746/)
 
 * solved hackerearth problem [Xsquare And Chocolates Bars](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-chocolates-bars-2/) : [Submission](https://www.hackerearth.com/submission/17769265/)
+
+* Gave [Codeforces Round #492 (Div. 2) [Thanks, uDebug!] ](http://codeforces.com/contest/996):
+  * Solved two problems:
+    * Solved [A. Hit the Lottery](http://codeforces.com/contest/996/problem/A) : [Submission](dikshu11.github.io/codeforces/996A.cpp)
+    * Solved [B. World Cup](http://codeforces.com/contest/996/problem/B) : [Submission](dikshu11.github.io/codeforces/996B.cpp)
+    Ratings :1343 → 1329  Rank: 2202
