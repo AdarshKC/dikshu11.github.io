@@ -109,3 +109,7 @@
     * Solved [A. Hit the Lottery](http://codeforces.com/contest/996/problem/A) : [Submission](dikshu11.github.io/codeforces/996A.cpp)
     * Solved [B. World Cup](http://codeforces.com/contest/996/problem/B) : [Submission](dikshu11.github.io/codeforces/996B.cpp)
     Ratings :1343 → 1329  Rank: 2202
+    
+## 25 June
+
+* solved hackerearth problem [Studious Little Jhool](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/studious-little-jhool/) : [Submission](https://www.hackerearth.com/submission/17805983/)
