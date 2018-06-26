@@ -9,7 +9,8 @@
 * [uva](http://uhunt.onlinejudge.org/id/948543)
 * [a20j](https://a2oj.com/profile?Username=Diksha11_)
 
-**[Important Algorithms](dikshu11.github.io/algorithms/important.md)**
+**Algorithms:**
+  * [Important](dikshu11.github.io/algorithms.md)
 
 ## Competitve Programming Journal
 
