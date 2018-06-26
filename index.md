@@ -10,7 +10,7 @@
 * [a20j](https://a2oj.com/profile?Username=Diksha11_)
 
 **Algorithms:**
-  * [Important](dikshu11.github.io/algorithms.md)
+  * [Important](/algorithms.md/)
 
 ## Competitve Programming Journal
 
