@@ -113,3 +113,7 @@
 ## 25 June
 
 * solved hackerearth problem [Studious Little Jhool](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/studious-little-jhool/) : [Submission](https://www.hackerearth.com/submission/17805983/)
+
+## 26 June
+
+* solved hackerearth problem [Odd-Even Subarrays](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/odd-even-subarrays-72ad69db/description/) : [Submission](https://www.hackerearth.com/submission/17814474/) : Could solve partially, saw editorial.
