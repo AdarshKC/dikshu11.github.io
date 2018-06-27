@@ -121,3 +121,7 @@
 * solved hackerearth problem [Super Two Letter Strings](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/super-two-letter-strings/description/) : [Submission](https://www.hackerearth.com/submission/17820069/)
 * solved hackerearth problem [Final voyage](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/final-voyage-1/) : [Submission](https://www.hackerearth.com/submission/17829924/)
 * solved hackerearth problem [Palindromic sub string Length](https://www.haackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/palindromic-sub-string-length/description/) : [Submission](https://www.hackerearth.com/submission/17833150/) : learned about [Manachar’s Algorithm](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/tutorial/)
+
+## 27 June
+
+* solved hackerearth problem [Palindrome Count](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/palindrome-count-1/) :[Submission](https://www.hackerearth.com/submission/17849805/) 
