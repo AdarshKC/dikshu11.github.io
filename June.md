@@ -127,3 +127,7 @@
 * solved hackerearth problem [Palindrome Count](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/palindrome-count-1/) :[Submission](https://www.hackerearth.com/submission/17849805/)
 * solved hackerearth problem [Gold Mines](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/gold-mines-10/) : [Submission](https://www.hackerearth.com/submission/17855441/)
 * solved hackerearth problem [Magical Words](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/magical-words-4/) : [Submission](https://www.hackerearth.com/submission/17855974/)
+
+## 28 June
+
+* solved hackerearth problem [Bino-Sum](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/bino-sum-1/) : [Submission](https://www.hackerearth.com/submission/17863988/)
