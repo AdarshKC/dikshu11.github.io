@@ -138,3 +138,6 @@
 
 * solved hackerearth problem [Bino-Sum](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/bino-sum-1/) : [Submission](https://www.hackerearth.com/submission/17863988/)
 * solved hackerearth problem [Roy and Flower Farm](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/roy-and-flower-farm/) : [Submission](https://www.hackerearth.com/submission/17870920/)
+
+## 29 June
+* solved hackerearth problem [Discover the Monk](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/discover-the-monk/) : [Submission](https://www.hackerearth.com/submission/17898595/)
