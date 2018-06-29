@@ -128,6 +128,12 @@
 * solved hackerearth problem [Gold Mines](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/gold-mines-10/) : [Submission](https://www.hackerearth.com/submission/17855441/)
 * solved hackerearth problem [Magical Words](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/magical-words-4/) : [Submission](https://www.hackerearth.com/submission/17855974/)
 
+* Gave Codeforces contest [Educational Codeforces Round 46 (Rated for Div. 2)](codeforces.com/contest/1000):
+  * Could solve only one question. Got error at last 5 min but couldn't solve in time.
+    * Solved [Light It Up](http://codeforces.com/contest/1000/problem/B) : [Submission](dikshu11.github.io/codeforces/1000B.cpp)
+    
+    Ratings : 1329 → 1303    Rank : 2489
+
 ## 28 June
 
 * solved hackerearth problem [Bino-Sum](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/bino-sum-1/) : [Submission](https://www.hackerearth.com/submission/17863988/)
