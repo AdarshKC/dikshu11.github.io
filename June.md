@@ -147,3 +147,4 @@
 * solved hackerearth problem [Foo and Exams](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/foo-and-exams-4/) : [Submission](https://www.hackerearth.com/submission/17912456/)
 * solved hackerearth problem [BooBoo and Upsolving](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/booboo-and-upsolving-circuits/) : [Submission](https://www.hackerearth.com/submission/17913029/)
 * solved hackerearth problem [Sumit and Chocolates](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/sumit-and-chocolates/) : [Submission](https://www.hackerearth.com/submission/17923290/)
+* solved hackerearth problem [The Old Monk](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-old-monk/) : [Submission](https://www.hackerearth.com/submission/17924782/)
