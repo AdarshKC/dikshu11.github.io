@@ -141,3 +141,6 @@
 
 ## 29 June
 * solved hackerearth problem [Discover the Monk](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/discover-the-monk/) : [Submission](https://www.hackerearth.com/submission/17898595/)
+
+## 30 June
+* solved hackerearth problem [ The Soap Mystery](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-soap-mystery/) : [Submission](https://www.hackerearth.com/submission/17911207/)
