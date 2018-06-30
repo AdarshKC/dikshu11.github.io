@@ -145,3 +145,4 @@
 ## 30 June
 * solved hackerearth problem [ The Soap Mystery](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-soap-mystery/) : [Submission](https://www.hackerearth.com/submission/17911207/)
 * solved hackerearth problem [Foo and Exams](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/foo-and-exams-4/) : [Submission](https://www.hackerearth.com/submission/17912456/)
+* solved hackerearth problem [BooBoo and Upsolving](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/booboo-and-upsolving-circuits/) : [Submission](https://www.hackerearth.com/submission/17913029/)
