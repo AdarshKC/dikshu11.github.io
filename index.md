@@ -15,4 +15,5 @@
 ## Competitve Programming Journal
 
 * [May 2018 Journal](/May.md/)
-* [June 2018 Journal](June.md)
+* [June 2018 Journal](/June.md/)
+* [July 2018 Journal](/July.md/)
