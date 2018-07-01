@@ -149,3 +149,6 @@
 * solved hackerearth problem [Sumit and Chocolates](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/sumit-and-chocolates/) : [Submission](https://www.hackerearth.com/submission/17923290/)
 * solved hackerearth problem [The Old Monk](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/the-old-monk/) : [Submission](https://www.hackerearth.com/submission/17924782/)
 * solved hackerearth problem [Charsi in Love](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/charsi-in-love/) : [Submission](https://www.hackerearth.com/submission/17925220/)
+
+
+### Wasted 2 months :(
