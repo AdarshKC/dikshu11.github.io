@@ -12,3 +12,5 @@
     * Solved [C. Convert to Ones](http://codeforces.com/contest/998/problem/C) : [Submission](dikshu11.github.io/codeforces/998C.cpp)
     
     Rank : 529 Ratings : 1303 → 1448
+    
+* solved hackerearth problem [Chandu and Consecutive Letters](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/chandu-and-consecutive-letters/) : [Submission](https://www.hackerearth.com/submission/17952806/)
