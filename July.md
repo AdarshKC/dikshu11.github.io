@@ -10,3 +10,5 @@
     * Solved [A. Balloons](http://codeforces.com/contest/998/problem/A) : [Submission](dikshu11.github.io/codeforces/998A.cpp)
     * Solved [B. Cutting](http://codeforces.com/contest/998/problem/B) : [Submission](dikshu11.github.io/codeforces/998B.cpp)
     * Solved [C. Convert to Ones](http://codeforces.com/contest/998/problem/C) : [Submission](dikshu11.github.io/codeforces/998C.cpp)
+    
+    Rank : 529 Ratings : 1303 → 1448
