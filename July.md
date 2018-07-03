@@ -26,5 +26,9 @@
 * solved hackerearth problem [My girlfriend and her love for cats](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/my-girlfriend-and-her-love-for-cats-1/) : [Submission](https://www.hackerearth.com/submission/17972284/)
 * solved hackerearth problem [Chandu and his toy stack](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/chandu-and-his-toy-stack/) : [Submission](https://www.hackerearth.com/submission/17972703/)
 * solved hackerearth problem [Bob and Walls](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-walls/) : [Submission](https://www.hackerearth.com/submission/17974093/)
+
+## 3 July
+
+ 
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
