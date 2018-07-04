@@ -29,6 +29,15 @@
 
 ## 3 July
 
- 
-* solved hackerearth problem []() : [Submission]()
+* Gave [Codeforces Round #494 (Div. 3)](http://codeforces.com/contest/1003) : 
+  * Solved three question:
+    * Solved [A. Polycarp's Pockets](http://codeforces.com/contest/1003/problem/A) : [Submission](dikshu11.github.io/codeforces/1003A.cpp)
+    * Solved [B.Binary String Constructing](http://codeforces.com/contest/1003/problem/B) : [Submission](dikshu11.github.io/codeforces/1003B.cpp)
+    * Solved [C.Intense Heat](http://codeforces.com/contest/1003/problem/C) : [Submission](dikshu11.github.io/codeforces/1003C.cpp)
+    
+    Rank:1532 Ratings: 1448 → 1429
+
+## 4 July
+
+* solved hackerearth problem [Monk visits Coderland](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/monk-visits-coderland-4/) : [Submission](https://www.hackerearth.com/submission/18009035/)
 * solved hackerearth problem []() : [Submission]()
