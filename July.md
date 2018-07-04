@@ -48,7 +48,7 @@
 * solved hackerearth problem [K Friends](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/k-friends-89908017/) : [Submission](https://www.hackerearth.com/submission/18015719/)
 * solved hackerearth problem [Sharpen the pencils](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/sharpen-the-pencils-2/) : [Submission](https://www.hackerearth.com/submission/18016031/)
 * solved hackerearth problem [Easy Strong Permutation](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/easy-strong-permutation/) : [Submission](https://www.hackerearth.com/submission/18016201/)
-* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem [Insect colony](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/insect-colony-2/) : [Submission](https://www.hackerearth.com/submission/18020391/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
