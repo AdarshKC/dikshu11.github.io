@@ -44,6 +44,6 @@
 * solved hackerearth problem [Milly and Chocolates IV](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/milly-and-chocolates-iv-6/) : [Submission](https://www.hackerearth.com/submission/18011798/) : One of the poorly explained and ambiguous question on Hackerearth. FOr solving it, Don't wait after last chocolate,wait to break even last chocolate and use long long.
 * solved hackerearth problem [Add - Subtract](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/add-subtract/) : [Submission](https://www.hackerearth.com/submission/18013557/)
 * solved hackerearth problem [Little Monk and Library](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/little-monk-and-library/) : [Submission](https://www.hackerearth.com/submission/18014168/)
-* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem [Maximize Array Sum](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-profit-fd9f0ee3/) : [Submission](https://www.hackerearth.com/submission/18014394/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
