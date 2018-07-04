@@ -40,4 +40,6 @@
 ## 4 July
 
 * solved hackerearth problem [Monk visits Coderland](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/monk-visits-coderland-4/) : [Submission](https://www.hackerearth.com/submission/18009035/)
+* solved hackerearth problem [Jumping Champa](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/jumping-champa-icpc-1/) : [Submission](https://www.hackerearth.com/submission/18009433/)
+* solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
