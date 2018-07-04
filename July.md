@@ -46,7 +46,7 @@
 * solved hackerearth problem [Little Monk and Library](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/little-monk-and-library/) : [Submission](https://www.hackerearth.com/submission/18014168/)
 * solved hackerearth problem [Maximize Array Sum](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/bob-and-profit-fd9f0ee3/) : [Submission](https://www.hackerearth.com/submission/18014394/)
 * solved hackerearth problem [K Friends](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/k-friends-89908017/) : [Submission](https://www.hackerearth.com/submission/18015719/)
-* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem [Sharpen the pencils](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/sharpen-the-pencils-2/) : [Submission](https://www.hackerearth.com/submission/18016031/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
