@@ -54,5 +54,9 @@
 * solved hackerearth problem [ Cities and co-ordinates.](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/protect-the-cities/description/) : [Submission](https://www.hackerearth.com/submission/18038903/)
 * solved hackerearth problem [Swap It](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/swap-it-2/) : [Submission](https://www.hackerearth.com/submission/18039352/)
 * solved hackerearth problem [Flip the World](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/flip-the-world/) : [Submission](https://www.hackerearth.com/submission/18039650/)
+* solved hackerearth problem [47's Code](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/playing-cards-1-8abea701/) : [Submission](https://www.hackerearth.com/submission/18039804/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem []() : [Submission]()
+
