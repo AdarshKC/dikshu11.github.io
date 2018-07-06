@@ -66,7 +66,7 @@
 
 * solved hackerearth problem [Help Sachin Dev Sahoo](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/minimum-flips/) : [Submission](https://www.hackerearth.com/submission/18056284/)
 * solved hackerearth problem [Social Networking Graph](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/social-networking-graph/) : [Submission](https://www.hackerearth.com/submission/18063542/)
-* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem [The Flight Plan](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/traffic-light-2-ee27ba45/) : [Submission](https://www.hackerearth.com/submission/18069654/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
