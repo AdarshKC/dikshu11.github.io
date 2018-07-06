@@ -64,7 +64,7 @@
 
 ## 6 July
 
-* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem [Help Sachin Dev Sahoo](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/minimum-flips/) : [Submission](https://www.hackerearth.com/submission/18056284/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 
