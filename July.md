@@ -56,6 +56,14 @@
 * solved hackerearth problem [Flip the World](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/flip-the-world/) : [Submission](https://www.hackerearth.com/submission/18039650/)
 * solved hackerearth problem [47's Code](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/playing-cards-1-8abea701/) : [Submission](https://www.hackerearth.com/submission/18039804/)
 * solved graph problem [Sad Mario](dikshu11.github.io/Sad-Mario.pdf) : [Submission](dikshu11.github.io/graph probem.cpp)
+
+* Gave [Codeforces Round #495 (Div. 2)](https://codeforces.com/contest/1004) :
+  * Solved two questions 
+    * Ratings : 1429 → 1382 Rank : 2389
+
+
+## 6 July
+
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
