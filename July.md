@@ -67,6 +67,18 @@
 * solved hackerearth problem [Help Sachin Dev Sahoo](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/minimum-flips/) : [Submission](https://www.hackerearth.com/submission/18056284/)
 * solved hackerearth problem [Social Networking Graph](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/social-networking-graph/) : [Submission](https://www.hackerearth.com/submission/18063542/)
 * solved hackerearth problem [The Flight Plan](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/traffic-light-2-ee27ba45/) : [Submission](https://www.hackerearth.com/submission/18069654/)
+* Gave [FB hacker Cup 2018](https://www.facebook.com/hackercup/):
+  * Solved three question:
+    * Solved [Tourist](dikshu11.github.io/FB hacker cup 2018/1.Tourist.txt) : [Submission](dikshu11.github.io/FB hacker cup 2018/tourist.cpp)
+    * Solved [Interception](dikshu11.github.io/FB hacker cup 2018/2.Interception.txt) : [Submission](dikshu11.github.io/FB hacker cup 2018/Interception.cpp)
+    * Solved [Ethan Searches for a String](dikshu11.github.io/FB hacker cup 2018/3.Ethan Searches for a String.txt) : [Submission](dikshu11.github.io/FB hacker cup 2018/Ethan Searches for a String.cpp)
+    
+## 9 July
+* Gave [Codeforces Round #496 (Div. 3)](https://codeforces.com/contest/1005):
+  * solved 4 question out of 7
+    * Rank - 655 Rating 1382 → 1427
+ 
+## 11 July
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
