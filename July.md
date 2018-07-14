@@ -88,5 +88,7 @@
     
 ## 14 July
 * solved hackerearth problem [Connected Horses](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/connected-horses-10/) : [Submission](https://www.hackerearth.com/submission/18262919/)
+* solved hackerearth problem [Oliver and the battle](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/oliver-and-the-battle-1/) : [Submission](https://www.hackerearth.com/submission/18263663/)
+* solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
