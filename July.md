@@ -77,8 +77,16 @@
 * Gave [Codeforces Round #496 (Div. 3)](https://codeforces.com/contest/1005):
   * solved 4 question out of 7
     * Rank - 655 Rating 1382 → 1427
- 
-## 11 July
+    
+## 12 July
+* Partially solved hackerearth problem [Words And Trees](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/words-and-trees-f9ef202c/description/) : [Submission](https://www.hackerearth.com/zh/submission/18222842/): Only one testcase failed.
+
+## 13 July
+* Gave []():
+  * solved 2 que out of 5. did silly mistake in que 2.
+    * Rank : 2563  Rating : 1427 → 1392
+    
+## 14 July
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
