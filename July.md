@@ -99,7 +99,7 @@
 * solved hackerearth problem [Zeta and Thanos](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/easymedium/) : [Submission](https://www.hackerearth.com/submission/18281708/)
 * solved hackerearth problem [Permutation](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/t1-1-6064aa64/) : [Submission](https://www.hackerearth.com/submission/18283991/) : took help of editorials and solutins. Good question.
 * solved hackerearth problem [The Witches of HEgwarts!](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/the-witches-of-hegwarts-1/) : [Submission](https://www.hackerearth.com/submission/18287138/)
-* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem [Big P and Party](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/big-p-and-party-1/) : [Submission](https://www.hackerearth.com/submission/18287829/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
