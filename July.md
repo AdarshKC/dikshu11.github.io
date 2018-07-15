@@ -82,7 +82,7 @@
 * Partially solved hackerearth problem [Words And Trees](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/words-and-trees-f9ef202c/description/) : [Submission](https://www.hackerearth.com/zh/submission/18222842/): Only one testcase failed.
 
 ## 13 July
-* Gave []():
+* Gave [Codeforces Round #497 (Div. 2)](http://codeforces.com/contest/1008):
   * solved 2 que out of 5. did silly mistake in que 2.
     * Rank : 2563  Rating : 1427 → 1392
     
@@ -90,5 +90,10 @@
 * solved hackerearth problem [Connected Horses](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/connected-horses-10/) : [Submission](https://www.hackerearth.com/submission/18262919/)
 * solved hackerearth problem [Oliver and the battle](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/oliver-and-the-battle-1/) : [Submission](https://www.hackerearth.com/submission/18263663/)
 * solved hackerearth problem [Travel diaries](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/till-the-end-of-the-time-d73ba7d1/) : [Submission](https://www.hackerearth.com/submission/18264612/)
+* Gave [Educational Codeforces Round 47 (Rated for Div. 2)](http://codeforces.com/contest/1009):
+  * solved 1 question, forgot to use long in third one
+    * Rank : 2428  Rating: 1392 → 1361
+
+## 15  July
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
