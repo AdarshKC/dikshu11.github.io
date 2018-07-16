@@ -104,4 +104,8 @@
 ## 16 July
 * solved hackerearth problem [TreeXor](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/treexor/) : [Submission](https://www.hackerearth.com/zh/submission/18297457/)
 * solved hackerearth problem [Golu the Traveller](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/easy-35/) : [Submission](https://www.hackerearth.com/zh/submission/18303645/)
+* solved hackerearth problem [ Monk and Graph Problem](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monk-and-graph-problem/) : [Submission](https://www.hackerearth.com/zh/submission/18310755/)
+* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
