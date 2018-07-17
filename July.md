@@ -73,6 +73,11 @@
     * Solved [Interception](dikshu11.github.io/FB hacker cup 2018/2.Interception.txt) : [Submission](dikshu11.github.io/FB hacker cup 2018/Interception.cpp)
     * Solved [Ethan Searches for a String](dikshu11.github.io/FB hacker cup 2018/3.Ethan Searches for a String.txt) : [Submission](dikshu11.github.io/FB hacker cup 2018/Ethan Searches for a String.cpp)
     
+## 7 July
+
+* Gave [odechef Long July div 2](https://www.codechef.com/JULY18B):
+  * Rating: 1848 (+80) , Rank : 212
+
 ## 9 July
 * Gave [Codeforces Round #496 (Div. 3)](https://codeforces.com/contest/1005):
   * solved 4 question out of 7
@@ -105,6 +110,16 @@
 * solved hackerearth problem [TreeXor](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/treexor/) : [Submission](https://www.hackerearth.com/zh/submission/18297457/)
 * solved hackerearth problem [Golu the Traveller](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/easy-35/) : [Submission](https://www.hackerearth.com/zh/submission/18303645/)
 * solved hackerearth problem [ Monk and Graph Problem](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monk-and-graph-problem/) : [Submission](https://www.hackerearth.com/zh/submission/18310755/)
+* Gave [Codeforces Round #498 (Div. 3)](http://codeforces.com/contest/1006) :
+  * Solved 4 que:
+    * Solved [A. Adjacent Replacements](http://codeforces.com/contest/1006/problem/A) : [Submission](dikshu11.github.io/codeforces/1006A.cpp)
+    * Solved [Polycarp's Practice](http://codeforces.com/contest/1006/problem/B): [Submission](dikshu11.github.io/codeforces/1006B.cpp)
+    * Solved [Three Parts of the Array](http://codeforces.com/contest/1006/problem/C): [Submission](dikshu11.github.io/codeforces/1006C.cpp)
+    * Solved [D. Two Strings Swaps](http://codeforces.com/contest/1006/problem/D): [Submission](dikshu11.github.io/codeforces/1006D.cpp)
+      * Rank :573 Rating:
+   
+
+
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
