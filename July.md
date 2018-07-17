@@ -122,5 +122,8 @@
 ## 17 July
 * solved hackerearth problem [Jungle Run](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/jungle-run/) : [Submission](https://www.hackerearth.com/zh/submission/18328002/)
 * solved hackerearth problem [Matt's Graph Book](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/matts-graph-book/) : [Submission](https://www.hackerearth.com/zh/submission/18328326/)
+* solved hackerearth problem [ Anushree and the chess trials](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/anushree-and-the-chess-trials-f65a7811/description/) : [Submission](https://www.hackerearth.com/zh/submission/18330292/)
+* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
