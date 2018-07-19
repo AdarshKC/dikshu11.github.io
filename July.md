@@ -126,6 +126,10 @@
 
 ## 18 July
 * solved hackerearth problem [Kingdom Of Monkeys](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/kingdom-of-monkeys/) : [Submission](https://www.hackerearth.com/zh/submission/18357295/)
+
+## 19 July
 * solved uva problem [429 - Word Transformation](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=370) : [Submission](dikshu11.github.io/uva chapter 4/429.cpp)
-* solved hackerearth problem []() : [Submission]()
+* solved uva problem [924 Spreading the News](https://uva.onlinejudge.org/external/9/924.pdf) : [Submission](dikshu11.github.io/uva chapter 4/924.cpp)
+* solved uva problem [10653 - Bombs! NO they are Mines!!](https://uva.onlinejudge.org/external/106/10653.pdf) : [Submission](dikshu11.github.io/uva chapter 4/10653.cpp)
+
 * solved hackerearth problem []() : [Submission]()
