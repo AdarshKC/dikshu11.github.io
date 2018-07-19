@@ -116,11 +116,16 @@
     * Solved [Polycarp's Practice](http://codeforces.com/contest/1006/problem/B): [Submission](dikshu11.github.io/codeforces/1006B.cpp)
     * Solved [Three Parts of the Array](http://codeforces.com/contest/1006/problem/C): [Submission](dikshu11.github.io/codeforces/1006C.cpp)
     * Solved [D. Two Strings Swaps](http://codeforces.com/contest/1006/problem/D): [Submission](dikshu11.github.io/codeforces/1006D.cpp)
-      * Rank :573 Rating:
+      * Rank : 647 Rating: 1361 → 1433
    
 
+## 17 July
+* solved hackerearth problem [Jungle Run](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/jungle-run/) : [Submission](https://www.hackerearth.com/zh/submission/18328002/)
+* solved hackerearth problem [Matt's Graph Book](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/matts-graph-book/) : [Submission](https://www.hackerearth.com/zh/submission/18328326/)
+* solved hackerearth problem [ Anushree and the chess trials](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/anushree-and-the-chess-trials-f65a7811/description/) : [Submission](https://www.hackerearth.com/zh/submission/18330292/)
 
-* solved hackerearth problem []() : [Submission]()
+## 18 July
+* solved hackerearth problem [Kingdom Of Monkeys](https://www.hackerearth.com/zh/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/kingdom-of-monkeys/) : [Submission](https://www.hackerearth.com/zh/submission/18357295/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
