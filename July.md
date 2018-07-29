@@ -132,4 +132,6 @@
 * solved uva problem [924 Spreading the News](https://uva.onlinejudge.org/external/9/924.pdf) : [Submission](dikshu11.github.io/uva chapter 4/924.cpp)
 * solved uva problem [10653 - Bombs! NO they are Mines!!](https://uva.onlinejudge.org/external/106/10653.pdf) : [Submission](dikshu11.github.io/uva chapter 4/10653.cpp)
 
-* solved hackerearth problem []() : [Submission]()
+## 27 July
+
+* solved hackerearth problem [11631 Dark roads](https://uva.onlinejudge.org/external/116/11631.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11631.cpp)
