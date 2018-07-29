@@ -139,5 +139,6 @@
 ## 29 July
 * solved uva problem [11747 Heavy Cycle Edges](https://uva.onlinejudge.org/external/117/11747.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11747.cpp)
 * solved uva problem [11228 Transportation system](https://uva.onlinejudge.org/external/112/11228.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11228.cpp)
+* solved uva problem [10004 - Bicoloring](https://uva.onlinejudge.org/external/100/10004.pdf) : [Submission](dikshu11.github.io/uva chapter 4/10004.cpp)
 * solved hackerearth problem [Panda and Destruction](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/panda-and-destruction/) : [Submission](https://www.hackerearth.com/submission/18686923/)
 
