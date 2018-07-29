@@ -138,4 +138,6 @@
 
 ## 29 July
 * solved uva problem [11747 Heavy Cycle Edges](https://uva.onlinejudge.org/external/117/11747.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11747.cpp)
-
+* solved uva problem [11228 Transportation system](https://uva.onlinejudge.org/external/112/11228.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11228.cpp)
+* solved uva problem []() : [Submission](dikshu11.github.io/uva chapter 4/11747.cpp)
+* solved uva problem []() : [Submission](dikshu11.github.io/uva chapter 4/11747.cpp)
