@@ -134,4 +134,8 @@
 
 ## 27 July
 
-* solved hackerearth problem [11631 Dark roads](https://uva.onlinejudge.org/external/116/11631.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11631.cpp)
+* solved uva problem [11631 Dark roads](https://uva.onlinejudge.org/external/116/11631.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11631.cpp)
+
+## 29 July
+* solved uva problem [11747 Heavy Cycle Edges](https://uva.onlinejudge.org/external/117/11747.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11747.cpp)
+
