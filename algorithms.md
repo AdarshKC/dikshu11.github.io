@@ -13,7 +13,7 @@
       /* function that returns nth Fibonacci number */
          int fib(int n)
          {
-           int F[2][2] = {{1,1},{1,0}};
+           int F[2][2] = { {1,1} , {1,0} };
            if (n == 0)
              return 0;
            power(F, n-1);
@@ -25,7 +25,7 @@
          {
            if( n == 0 || n == 1)
                return;
-           int M[2][2] = {{1,1},{1,0}};
+           int M[2][2] = { {1,1} , {1,0} };
 
            power(F, n/2);
            multiply(F, F);
