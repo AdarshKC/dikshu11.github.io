@@ -142,3 +142,8 @@
 * solved uva problem [10004 - Bicoloring](https://uva.onlinejudge.org/external/100/10004.pdf) : [Submission](dikshu11.github.io/uva chapter 4/10004.cpp)
 * solved hackerearth problem [Panda and Destruction](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/panda-and-destruction/) : [Submission](https://www.hackerearth.com/submission/18686923/)
 
+
+## 30 July
+
+* solved hackerearth problem [IOI 2050](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/ioi-2050-2/) : [Submission](https://www.hackerearth.com/submission/18729710/)
+
