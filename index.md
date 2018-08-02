@@ -17,3 +17,4 @@
 * [May 2018 Journal](/May.md/)
 * [June 2018 Journal](/June.md/)
 * [July 2018 Journal](/July.md/)
+* [August 2018 Journal](/august.md/)
