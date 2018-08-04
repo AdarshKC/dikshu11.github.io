@@ -9,6 +9,11 @@
 ## 3 August
 
 * solved hackerearth problem [Mittal wants to go to play!](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/mittal-wants-to-go-to-play/) : [Submission](https://www.hackerearth.com/submission/18840787/)
-* solved hackerearth problem []() : [Submission]()
+* Gave codeforces contest [Educational Codeforces Round 48 (Rated for Div. 2)](http://codeforces.com/contest/1016):
+  * Could solve two questions 
+    * Rating : 1433 → 1412 , Rank: 2558
+    
+## 4 August
+* solved hackerearth problem [Monk and Graph G](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/monk-and-graph-g-codemonk-2/description/) : [Submission](https://www.hackerearth.com/submission/18860267/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
