@@ -20,3 +20,4 @@
 * solved hackerearth problem [Costly Phone Number](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/costly-phone-number-december-easy-easy-medium/) : [Submission](https://www.hackerearth.com/submission/18861974/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem []() : [Submission]()
