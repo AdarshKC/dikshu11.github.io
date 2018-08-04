@@ -15,5 +15,5 @@
     
 ## 4 August
 * solved hackerearth problem [Monk and Graph G](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/monk-and-graph-g-codemonk-2/description/) : [Submission](https://www.hackerearth.com/submission/18860267/)
-* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem [ DAY 3 - Engineering Entrance Exam](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/graph-question/) : [Submission](https://www.hackerearth.com/submission/18860502/)
 * solved hackerearth problem []() : [Submission]()
