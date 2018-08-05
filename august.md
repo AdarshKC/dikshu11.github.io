@@ -19,5 +19,7 @@
 * solved hackerearth problem [Pradyumn and His Long Puzzle!](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/pradyumn-and-his-long-puzzle/) : [Submission](https://www.hackerearth.com/submission/18861518/)
 * solved hackerearth problem [Costly Phone Number](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/costly-phone-number-december-easy-easy-medium/) : [Submission](https://www.hackerearth.com/submission/18861974/)
 * solved hackerearth problem [IRCTC](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/irctc/) : [Submission](https://www.hackerearth.com/submission/18874848/)
-* solved hackerearth problem []() : [Submission]()
+
+## 5 August
+* solved hackerearth problem [The Parking Slot](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/the-parking-slot-9fac40d6/) : [Submission](https://www.hackerearth.com/submission/18908095/)
 * solved hackerearth problem []() : [Submission]()
