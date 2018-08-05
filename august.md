@@ -22,4 +22,8 @@
 
 ## 5 August
 * solved hackerearth problem [The Parking Slot](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/the-parking-slot-9fac40d6/) : [Submission](https://www.hackerearth.com/submission/18908095/)
+* solved hackerearth problem [Booze First](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/booze-first-76e979dd/) : [Submission](https://www.hackerearth.com/submission/18908640/)
+* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
