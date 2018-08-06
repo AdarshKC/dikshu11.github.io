@@ -23,6 +23,10 @@
 ## 5 August
 * solved hackerearth problem [The Parking Slot](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/the-parking-slot-9fac40d6/) : [Submission](https://www.hackerearth.com/submission/18908095/)
 * solved hackerearth problem [Booze First](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/booze-first-76e979dd/) : [Submission](https://www.hackerearth.com/submission/18908640/)
+
+## 6 August
+* solved uva problem [929 - Number Maze](https://uva.onlinejudge.org/external/9/929.pdf) :  [Submission](dikshu11.github.io/uva chapter 4/929.cpp)
+* solved uva problem [10004 Bicoloring](https://uva.onlinejudge.org/external/100/10004.pdf) :  [Submission](dikshu11.github.io/uva chapter 4/10004.cpp)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
