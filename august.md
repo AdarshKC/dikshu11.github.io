@@ -27,6 +27,7 @@
 ## 6 August
 * solved uva problem [929 - Number Maze](https://uva.onlinejudge.org/external/9/929.pdf) :  [Submission](dikshu11.github.io/uva chapter 4/929.cpp)
 * solved uva problem [10004 Bicoloring](https://uva.onlinejudge.org/external/100/10004.pdf) :  [Submission](dikshu11.github.io/uva chapter 4/10004.cpp)
+* solved uva problem [1112 - Mice and Maze](https://uva.onlinejudge.org/external/11/1112.pdf) :  [Submission](dikshu11.github.io/uva chapter 4/1112.cpp)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
