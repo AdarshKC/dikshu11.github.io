@@ -32,6 +32,6 @@
 
 ## 9 August
 * solved hackerearth problem [ Straightest path](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/vizard-and-turns-a8c61c7e/description/) : [Submission](https://www.hackerearth.com/submission/19002319/)
-* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem [Agitated Chandan](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/agitated-chandan/) : [Submission](https://www.hackerearth.com/submission/19019181/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
