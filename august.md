@@ -29,7 +29,9 @@
 * solved uva problem [10004 Bicoloring](https://uva.onlinejudge.org/external/100/10004.pdf) :  [Submission](dikshu11.github.io/uva chapter 4/10004.cpp)
 * solved uva problem [1112 - Mice and Maze](https://uva.onlinejudge.org/external/11/1112.pdf) :  [Submission](dikshu11.github.io/uva chapter 4/1112.cpp)
 * solved uva problem [10986 Sending email](https://uva.onlinejudge.org/external/109/10986.pdf) : [Submission](dikshu11.github.io/uva chapter 4/10986.cpp)
-* solved hackerearth problem []() : [Submission]()
+
+## 9 August
+* solved hackerearth problem [ Straightest path](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/practice-problems/algorithm/vizard-and-turns-a8c61c7e/description/) : [Submission](https://www.hackerearth.com/submission/19002319/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
