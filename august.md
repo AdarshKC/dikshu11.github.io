@@ -36,4 +36,7 @@
 
 ## 10 August
 * solved hackerearth problem [ We Are On Fire](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/we-are-on-fire/) : [Submission](https://www.hackerearth.com/submission/19029503/)
+* solved hackerearth problem [Capture Castle](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/capture-castle/) : [Submission](https://www.hackerearth.com/submission/19030095/)
+* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
