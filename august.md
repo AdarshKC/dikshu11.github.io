@@ -47,8 +47,8 @@
 ## 13 August
 * solved hackerearth problem [3 types](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/3-types/) : [Submission](https://www.hackerearth.com/submission/19142278/)
 
-
-* solved hackerearth problem []() : [Submission]()
+## 16 August
+* solved hackerearth problem [ Mr. President](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/mr-president/description/) : [Submission](https://www.hackerearth.com/submission/19204774/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
