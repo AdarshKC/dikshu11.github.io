@@ -39,8 +39,15 @@
 * solved hackerearth problem [Capture Castle](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/capture-castle/) : [Submission](https://www.hackerearth.com/submission/19030095/)
 * solved hackerearth problem [Sonya and the graph with disappearing edges](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/sonya-and-the-graph-with-disappearing-edges-icpc-5/) : [Submission](https://www.hackerearth.com/submission/19031239/)
 
+## 12 August
+
+* Gave codechef long:
+  * Score : 130 Rank : 405 Rating: 1848 -> 1888
+
 ## 13 August
 * solved hackerearth problem [3 types](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/3-types/) : [Submission](https://www.hackerearth.com/submission/19142278/)
+
+
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
