@@ -49,7 +49,9 @@
 
 ## 16 August
 * solved hackerearth problem [ Mr. President](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/mr-president/description/) : [Submission](https://www.hackerearth.com/submission/19204774/)
-* solved hackerearth problem []() : [Submission]()
+
+## 17 August
+* solved hackerearth problem [Rhezo and Destructive Mind](https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/rhezo-and-destructive-mind/) : [Submission](https://www.hackerearth.com/submission/19243370/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
