@@ -124,6 +124,67 @@
 
    
    ****A and M are coprime i.e.Ax+My = 1. In the extended Euclidean algorithm, x is the modular multiplicative inverse of A under modulo M.****
+   
+   
+**Articulation Points and Bridges** : In a graph, a vertex is called an articulation point if removing it and all the edges associated with it results in the increase of the number of connected components in the graph. An edge in a graph between vertices say  and  is called a Bridge, if after removing it, there will be no path left between u and v.
+
+[Example](https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/rhezo-and-destructive-mind/description/) : [Solution](https://www.hackerearth.com/submission/19243370/)
+
+Implementation:
+  ```
+  
+  v is vector used to store adjacency list.
+  
+  visited is boolean array to keep track of nodes visited
+  
+  disc is int array to store discovered time of vertex
+  
+  low is int array to which stores, for every vertex v, the discovery time of 
+  the earliest discovered vertex to which v or any of the vertices in the subtree
+  rooted at v is having a back edge. It is initialized by INFINITY.
+  
+  parent is int array used to store parent of each node. it is initialised by NIL.
+  
+  is is boolean array to store if ith vertex is an articulation point.
+  time is used to keep track of discovered time.
+  
+  ans is vector of pair<int ,int> used to store bridges
+  
+  void dfs(ll x,   ll time)
+  {
+      visited[x] = true;
+
+      disc[x] = low[x] = time+1;
+      ll child = 0;
+
+      fr(i,v[x].size())
+      {
+          ll a = v[x][i];
+          if(a==parent[x])
+              continue; 
+          if(visited[a])
+              low[x] = min(low[x] , low[a]);
+          else
+          {
+              child++;
+              parent[a] = x;
+              dfs(a,time+1);
+              low[x] = min(low[x], low[a]);
+
+              //cout<<x<<" "<<a<<" "<<child<<" "<<parent[x]<<endl;
+              if(parent[x]==-1 && child>1)
+                  is[x] = true,num++;
+              else if(parent[x]!=-1 && low[a]>=disc[x])
+                  is[x] = true,num++;
+              if(low[a]>disc[x])
+                  ans.pb(mp(x,a));
+          }
+
+      }
+  }
+  ```
+   
+   
       
        
    
