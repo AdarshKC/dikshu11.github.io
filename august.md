@@ -52,6 +52,10 @@
 
 ## 17 August
 * solved hackerearth problem [Rhezo and Destructive Mind](https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/rhezo-and-destructive-mind/) : [Submission](https://www.hackerearth.com/submission/19243370/)
+* Gave [Codeforces Round #504 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final)](http://codeforces.com/contest/1023) :
+  * Solved 2 questions out of 3 attempted : 
+    * Rating: 1412 → 1437  Rank: 2273
+
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
