@@ -49,12 +49,18 @@
 
 ## 16 August
 * solved hackerearth problem [ Mr. President](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/practice-problems/algorithm/mr-president/description/) : [Submission](https://www.hackerearth.com/submission/19204774/)
+* solved uva problem [10305 Ordering Tasks](https://uva.onlinejudge.org/external/103/10305.pdf) : [Submission](dikshu11.github.io/uva chapter 4/796.cpp)
+* solved uva problem [558 Wormholes](https://uva.onlinejudge.org/external/5/558.pdf) : [Submission](dikshu11.github.io/uva chapter 4/796.cpp)
 
 ## 17 August
 * solved hackerearth problem [Rhezo and Destructive Mind](https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/rhezo-and-destructive-mind/) : [Submission](https://www.hackerearth.com/submission/19243370/)
 * Gave [Codeforces Round #504 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final)](http://codeforces.com/contest/1023) :
   * Solved 2 questions out of 3 attempted : 
     * Rating: 1412 → 1437  Rank: 2273
+    
+## 18 August
+
+* solved uva problem [796 - Critical Links](https://uva.onlinejudge.org/external/7/796.pdf) : [Submission](dikshu11.github.io/uva chapter 4/796.cpp)
 
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
