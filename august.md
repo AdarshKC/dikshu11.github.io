@@ -58,9 +58,13 @@
   * Solved 2 questions out of 3 attempted : 
     * Rating: 1412 → 1437  Rank: 2273
     
+    
 ## 18 August
 
 * solved uva problem [796 - Critical Links](https://uva.onlinejudge.org/external/7/796.pdf) : [Submission](dikshu11.github.io/uva chapter 4/796.cpp)
+* Gave [Educational Codeforces Round 49 (Rated for Div. 2)](http://codeforces.com/contest/1027) 
+  * Solved 3 questions:
+    * Rating : 1437 → 1467 Rank: 1730 
 
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
