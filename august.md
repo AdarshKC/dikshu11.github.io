@@ -68,6 +68,7 @@
 
 ## 19 August
 * solved uva problem [10765 - Doves and bombs](https://uva.onlinejudge.org/external/107/10765.pdf) : [Submission](/dikshu11.github.io/uva chapter 4/10765.cpp/)
+* solved  uva problem [10199 - Tourist Guide](https://uva.onlinejudge.org/external/101/10199.pdf) : [Submission](/dikshu11.github.io/uva chapter 4/10199.cpp/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
