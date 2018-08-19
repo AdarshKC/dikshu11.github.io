@@ -66,6 +66,8 @@
   * Solved 3 questions:
     * Rating : 1437 → 1467 Rank: 1730 
 
+## 19 August
+* solved uva problem [10765 - Doves and bombs](https://uva.onlinejudge.org/external/107/10765.pdf) : [Submission](/dikshu11.github.io/uva chapter 4/10765.cpp/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
