@@ -163,7 +163,7 @@ Implementation:
           if(a==parent[x])
               continue; 
           if(visited[a])
-              low[x] = min(low[x] , low[a]);
+              low[x] = min(low[x] , disc[a]);
           else
           {
               child++;
