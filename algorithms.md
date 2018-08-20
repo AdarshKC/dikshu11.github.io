@@ -127,6 +127,7 @@
    
    
 **Articulation Points and Bridges** : In a graph, a vertex is called an articulation point if removing it and all the edges associated with it results in the increase of the number of connected components in the graph. An edge in a graph between vertices say  and  is called a Bridge, if after removing it, there will be no path left between u and v.
+[Tutorial](https://www.hackerearth.com/practice/notes/nj/)
 
 [Example](https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/rhezo-and-destructive-mind/description/) : [Solution](https://www.hackerearth.com/submission/19243370/)
 
