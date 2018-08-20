@@ -69,6 +69,10 @@
 ## 19 August
 * solved uva problem [10765 - Doves and bombs](https://uva.onlinejudge.org/external/107/10765.pdf) : [Submission](/dikshu11.github.io/uva chapter 4/10765.cpp/)
 * solved  uva problem [10199 - Tourist Guide](https://uva.onlinejudge.org/external/101/10199.pdf) : [Submission](/dikshu11.github.io/uva chapter 4/10199.cpp/)
+* Gave []() :
+   * Solved 2 out of 3 attempted:
+     * Rank: 2383  Rating: 1467 → 1473
+
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
