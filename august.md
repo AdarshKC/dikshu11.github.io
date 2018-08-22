@@ -75,6 +75,7 @@
 
 ## 22 Aug
 * solved uva problem [11838 Come and Go](https://uva.onlinejudge.org/external/118/11838.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11838.cpp)
+* solved uva problem [11709 Trust groups](https://uva.onlinejudge.org/external/117/11709.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11709.cpp)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
