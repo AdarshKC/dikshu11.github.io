@@ -78,4 +78,7 @@
 * solved uva problem [11709 Trust groups](https://uva.onlinejudge.org/external/117/11709.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11709.cpp)
 * solved hackerearth problem [247 Calling Circles](https://uva.onlinejudge.org/external/2/247.pdf) : [Submission](dikshu11.github.io/uva chapter 4/247.cpp)
 * solved hackerearth problem [11504 Dominos](http://uva.onlinejudge.org/external/115/11504.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11504.cpp)
+
+## 26 Aug
+* solved uva problem [10285 - Longest Run on a Snowboard](https://uva.onlinejudge.org/external/102/10285.pdf) : [Submission](dikshu11.github.io/uva chapter 4/10285.cpp)
 * solved hackerearth problem []() : [Submission]()
