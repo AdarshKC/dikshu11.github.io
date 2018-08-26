@@ -82,4 +82,5 @@
 ## 26 Aug
 * solved uva problem [10285 - Longest Run on a Snowboard](https://uva.onlinejudge.org/external/102/10285.pdf) : [Submission](dikshu11.github.io/uva chapter 4/10285.cpp)
 * solved uva problem [452 - Project Scheduling](https://uva.onlinejudge.org/external/4/452.pdf) : [Submission](dikshu11.github.io/uva chapter 4/452.cpp)
+* solved hackerearth problem [ Matrix](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/matrix-11-f80d341e/description/) : [Submission](https://www.hackerearth.com/submission/19719282/)
 * solved hackerearth problem []() : [Submission]()
