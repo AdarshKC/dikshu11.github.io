@@ -85,5 +85,8 @@
 * solved hackerearth problem [ Matrix](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/matrix-11-f80d341e/description/) : [Submission](https://www.hackerearth.com/submission/19719282/)
 * solved hackerearth problem [Game](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/game-39/) : [Submission](https://www.hackerearth.com/submission/19728901/)
 * solved hackerearth problem [Permutation Swaps](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/permutation-swaps/) : [Submission](https://www.hackerearth.com/submission/19734351/)
+* solved hackerearth problem [ The Circular jump (Lowe)](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/the-circular-jump-9515a45c/) : [Submission](https://www.hackerearth.com/submission/19736574/)
+* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
