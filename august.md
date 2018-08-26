@@ -84,6 +84,6 @@
 * solved uva problem [452 - Project Scheduling](https://uva.onlinejudge.org/external/4/452.pdf) : [Submission](dikshu11.github.io/uva chapter 4/452.cpp)
 * solved hackerearth problem [ Matrix](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/matrix-11-f80d341e/description/) : [Submission](https://www.hackerearth.com/submission/19719282/)
 * solved hackerearth problem [Game](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/game-39/) : [Submission](https://www.hackerearth.com/submission/19728901/)
-* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem [Permutation Swaps](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/permutation-swaps/) : [Submission](https://www.hackerearth.com/submission/19734351/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
