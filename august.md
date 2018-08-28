@@ -95,8 +95,9 @@
 * Gave [AIM Tech Round 5 (rated, Div. 1 + Div. 2)](http://codeforces.com/contest/1028):
   * Solved 3 questions:
     * Rank: 1158 Rating: 1464 → 1530
-    
-* solved hackerearth problem []() : [Submission]()
+
+## 28 Aug
+* solved hackerearth problem [ Happy Vertices](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/happy-vertices/description/) : [Submission](https://www.hackerearth.com/submission/19800905/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
