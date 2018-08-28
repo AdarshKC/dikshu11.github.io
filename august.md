@@ -80,12 +80,22 @@
 * solved hackerearth problem [11504 Dominos](http://uva.onlinejudge.org/external/115/11504.pdf) : [Submission](dikshu11.github.io/uva chapter 4/11504.cpp)
 
 ## 26 Aug
+* Gave [Kickstart Round E 2018](https://code.google.com/codejam/contest/4394486/dashboard):
+  * Solved 1 complete and 1 partial que:
+    * Score : 30 Rank 699
+
 * solved uva problem [10285 - Longest Run on a Snowboard](https://uva.onlinejudge.org/external/102/10285.pdf) : [Submission](dikshu11.github.io/uva chapter 4/10285.cpp)
 * solved uva problem [452 - Project Scheduling](https://uva.onlinejudge.org/external/4/452.pdf) : [Submission](dikshu11.github.io/uva chapter 4/452.cpp)
 * solved hackerearth problem [ Matrix](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/matrix-11-f80d341e/description/) : [Submission](https://www.hackerearth.com/submission/19719282/)
 * solved hackerearth problem [Game](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/game-39/) : [Submission](https://www.hackerearth.com/submission/19728901/)
 * solved hackerearth problem [Permutation Swaps](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/permutation-swaps/) : [Submission](https://www.hackerearth.com/submission/19734351/)
 * solved hackerearth problem [ The Circular jump (Lowe)](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/the-circular-jump-9515a45c/) : [Submission](https://www.hackerearth.com/submission/19736574/)
+
+## 27 Aug
+* Gave [AIM Tech Round 5 (rated, Div. 1 + Div. 2)](http://codeforces.com/contest/1028):
+  * Solved 3 questions:
+    * Rank: 1158 Rating: 1464 → 1530
+    
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
