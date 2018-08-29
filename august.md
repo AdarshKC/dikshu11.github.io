@@ -97,7 +97,11 @@
     * Rank: 1158 Rating: 1464 → 1530
 
 ## 28 Aug
-* solved hackerearth problem [ Happy Vertices](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/happy-vertices/description/) : [Submission](https://www.hackerearth.com/submission/19800905/)
+* solved hackerearth problem [ Happy Vertices](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/happy-vertices/description/) : [Submission](https://www.hackerearth.com/submission/19800905/) 
+
+## 30 Aug
+* solved hackerearth problem [ Studious Amit and His New College](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/studious-amit-and-his-new-college/) : [Submission](https://www.hackerearth.com/submission/19849210/)
+* solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
