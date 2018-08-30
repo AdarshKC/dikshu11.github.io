@@ -102,7 +102,6 @@
 ## 30 Aug
 * solved hackerearth problem [ Studious Amit and His New College](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/studious-amit-and-his-new-college/) : [Submission](https://www.hackerearth.com/submission/19849210/)
 * solved hackerearth problem [ Easylife](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/easylife/) : [Submission](https://www.hackerearth.com/submission/19862737/)
-
-* solved hackerearth problem []() : [Submission]()
+* solved hackerearth problem [El Nino !](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/el-nino/) : [Submission](https://www.hackerearth.com/submission/19863772/)
 * solved hackerearth problem []() : [Submission]()
 * solved hackerearth problem []() : [Submission]()
