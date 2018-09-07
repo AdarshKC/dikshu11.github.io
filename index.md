@@ -18,4 +18,4 @@
 * [June 2018 Journal](/June.md/)
 * [July 2018 Journal](/July.md/)
 * [August 2018 Journal](/august.md/)
-* [September 2018 Journal](dikshu11.github.io/sept.md)
+* [September 2018 Journal](/sept.md/)
