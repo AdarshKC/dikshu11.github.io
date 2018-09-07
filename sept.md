@@ -8,4 +8,5 @@
 
 ## 7 Sep
 
-* solved [Pattern Find](https://www.spoj.com/problems/NAJPF/) 
+* solved [Pattern Find](https://www.spoj.com/problems/NAJPF/)
+* solved [ War of the Corporations ](https://codeforces.com/contest/625/problem/B) : [Submission](dikshu11.github.io/codeforces/625B.cpp)
