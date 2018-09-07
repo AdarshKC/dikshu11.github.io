@@ -10,3 +10,4 @@
 
 * solved [Pattern Find](https://www.spoj.com/problems/NAJPF/)
 * solved [ War of the Corporations ](https://codeforces.com/contest/625/problem/B) : [Submission](dikshu11.github.io/codeforces/625B.cpp)
+* solved [Power Strings](https://uva.onlinejudge.org/external/102/10298.pdf) : [Submission](dikshu11.github.io/uva chapter6/10298.cpp)
