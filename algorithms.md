@@ -187,6 +187,7 @@ Implementation:
   
   ## KMP Algorithm :
   Used to find occurance of pattern in the given string. It calculates an array to store length of prefix which is suffix also.
+  Implementation:
   
   ```
       /*
@@ -256,6 +257,19 @@ Implementation:
       cout<<endl;
    }
   ```
+  
+  ## KMP using stl:
+  
+  ```
+  std::size_t found = a.find(b, 0);
+  while(found != std::string::npos) 
+  {
+    std::cout << "found!" << '\n';
+    found = a.find(b, found+1);
+   }
+  ```
+  
+  
    
    
       
