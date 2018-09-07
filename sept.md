@@ -8,6 +8,7 @@
 
 ## 7 Sep
 
-* solved [Pattern Find](https://www.spoj.com/problems/NAJPF/)
+* solved [Pattern Find](https://www.spoj.com/problems/NAJPF/) : [Submission](dikshu11.github.io/spoj/pattern.cpp)
 * solved [ War of the Corporations ](https://codeforces.com/contest/625/problem/B) : [Submission](dikshu11.github.io/codeforces/625B.cpp)
 * solved [Power Strings](https://uva.onlinejudge.org/external/102/10298.pdf) : [Submission](dikshu11.github.io/uva chapter6/10298.cpp)
+* solved [NHAY - A Needle in the Haystack](https://www.spoj.com/problems/NHAY/) : [Submission](dikshu11.github.io/spoj/needle.cpp)
