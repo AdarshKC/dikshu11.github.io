@@ -184,6 +184,78 @@ Implementation:
       }
   }
   ```
+  
+  ## KMP Algorithm :
+  Used to find occurance of pattern in the given string. It calculates an array to store length of prefix which is suffix also.
+  
+  ```
+      /*
+      b stores the string(pattern) and 
+      we need to find it occurances in string a.
+       */
+      vector<ll> v;
+      string a,b; 
+      cin>>a>>b;
+ 
+      ll n = a.length();
+      ll m = b.length();
+ 
+      /*
+      Compute temporary array pre[m] to maintain
+      size of suffix which is same as prefix
+      */
+      ll pre[m];
+      ll i=1, j=0;
+      pre[0] = 0;
+      while(i<m)
+      {
+         if(b[i]==b[j])
+            pre[i] = j+1, i++, j++;
+         else if(b[i]!=b[j])
+         {
+            if(j==0)
+               pre[i]=0, i++;
+            else
+               j = pre[j-1];
+         }
+ 
+      }
+      i=0, j=0;
+      /*
+      Search for pattern in text.
+      */
+      while(i<n)
+      {
+         if(a[i]==b[j])
+         {
+            i++, j++;
+            if(j==m)
+            {
+               v.pb(i+1-m);
+               j = pre[j-1];
+            }
+         }
+         else
+         {
+            if(j==0)
+                  i++;
+            else
+               j =pre[j-1];
+         }
+      }
+      if(v.size()==0)
+         cout<<"Not Found\n";
+      else
+      {
+         ll size = v.size();
+         cout<<size<<endl;
+         fr(i,size)
+            cout<<v[i]<<" ";
+         cout<<endl;
+      }
+      cout<<endl;
+   }
+  ```
    
    
       
