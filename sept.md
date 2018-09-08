@@ -19,6 +19,6 @@
 
 * solved [Cyclic Permutations](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/cyclic-permutations-15/) : [Submission](https://www.hackerearth.com/submission/20142635/)
 * solved [Omar And Strings](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/omar-and-strings-1/) : [Submission](https://www.hackerearth.com/submission/20155183/)
-* solved []() : [Submission]()
+* solved [ Prefix Number <Liv.ai>](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/prefix-number-f5c76976/) : [Submission](https://www.hackerearth.com/submission/20156870/)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
