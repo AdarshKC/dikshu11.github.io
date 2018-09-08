@@ -269,7 +269,68 @@ Implementation:
    }
   ```
   
+  ## Z Algorithm
   
+  
+  ```
+  /*
+  String c - whose occurances need to be find out in string s;
+  z[i] stores the maximum length of substring startiing from ith position 
+  which is prefix of a.
+  We need to find how many times z[i] = c.length()
+  a = c+'&' + s where & is character that is not present in either of the
+  strings.
+  */
+  string s,c;
+   cin>>c>>s;
+
+   string a = c+"#"+ s;
+
+   ll n = a.length();
+
+   ll z[n+1];
+
+   z[0] = 0;
+   ll l=0,r=0,k;
+
+   fre(i,n-1)
+   {
+      if(i>r)
+      {
+         l = r = i;
+         while(r<n && a[r]==a[r-l])
+            r++;
+         z[i] = r-l;
+         r--;
+      }
+      else
+      {
+         k = i-l;
+
+         if(z[k]< r-i+1)
+            z[i] = z[k];
+         else
+         {
+            l =  i;
+            while(r<n && a[r]==a[r-l])
+               r++;
+            
+            z[i] = r-l;
+               r--;
+         }
+      }
+   }
+
+   ll m = c.length(), ans=0;
+
+   fre(i,n-1)
+   {
+      //cout<<a[i]<<" "<<z[i]<<endl;
+      if(z[i]== m)
+         ans++;
+   }
+   cout<<ans<<endl;
+  ```
    
    
       
