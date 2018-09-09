@@ -22,6 +22,6 @@
 * solved [ Prefix Number <Liv.ai>](https://www.hackerearth.com/practice/algorithms/string-algorithm/z-algorithm/practice-problems/algorithm/prefix-number-f5c76976/) : [Submission](https://www.hackerearth.com/submission/20156870/)
 * solved [ Word Queries ](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/dummy4-2/) : [Submission](https://www.hackerearth.com/submission/20183733/)
 * solved [Prasanjeet verma and his sorrow](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/prasanjeet-verma-and-his-sorrow/) : [Submission](https://www.hackerearth.com/submission/20184286/)
-* solved []() : [Submission]()
+* solved [Cost of Data](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/cost-of-data-11/) : [Submission](https://www.hackerearth.com/submission/20185529/)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
