@@ -24,7 +24,10 @@
 * solved [Prasanjeet verma and his sorrow](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/prasanjeet-verma-and-his-sorrow/) : [Submission](https://www.hackerearth.com/submission/20184286/)
 * solved [Cost of Data](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/cost-of-data-11/) : [Submission](https://www.hackerearth.com/submission/20185529/)
 * solved [Shubham and Subarray Xor](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/shubham-and-subarray-xor-d9e787a7/description/) : [Submission](https://www.hackerearth.com/submission/20191510/)
-* solved []() : [Submission]()
+
+## 13 Sep
+
+* solved [Help Ashu](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/help-ashu-1/) : [Submission](https://www.hackerearth.com/submission/20290827/)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
 * solved []() : [Submission]()
