@@ -28,6 +28,6 @@
 ## 13 Sep
 
 * solved [Help Ashu](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/help-ashu-1/) : [Submission](https://www.hackerearth.com/submission/20290827/)
-* solved []() : [Submission]()
+* solved [C. k-Tree](http://codeforces.com/problemset/problem/431/C) : [Submission](http://codeforces.com/contest/431/submission/42842743)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
