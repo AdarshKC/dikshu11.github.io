@@ -337,150 +337,152 @@ Implementation:
 * Used to calculate length of common prefix of strings or related question.
 * Used to calculate [maximum subarray XOR in a given array](https://www.geeksforgeeks.org/find-the-maximum-subarray-xor-in-a-given-array/) 
 * Used to calculate [Maximum XOR Pair](https://www.youtube.com/watch?v=jCu-Pd0IjIA)
-```
 
-/*  
-PROBLEM:
-Given an array of an integer of size n
-Find the max value of XOR of sum of 2 disjoint subarrays
-ie maximize sum(l1,r1)XORsum(l2,r2)
-*/
 
-/*  
-LOGIC:
-We iterate the array in reverse order.Suppose we are at index i.We consider it to be the right end point of one of the subarrays.We then loop over j where 1<=j<=i  which is the left end point of the subarray.We consider we have inserted sum of all subarrays [l,r] where i<=l<=r<n in a trie.So we can compute the maximum xor value of ( sum[j,i] xor x ) where x is a value in trie.After iterating over all j, we insert in the trie sum of subarrays starting at index i. 
-*/
+  ```
 
-/* 
-IMPLEMENTATION
-*/
+  /*  
+  PROBLEM:
+  Given an array of an integer of size n
+  Find the max value of XOR of sum of 2 disjoint subarrays
+  ie maximize sum(l1,r1)XORsum(l2,r2)
+  */
 
-#include<bits/stdc++.h>
-#define ll long long int
-#define fr(i,n) for(ll i=0; i<n; i++)
-#define fre(i,n) for(ll i=1; i<=n; i++)
-#define pb push_back
-#define mp(i,j) make_pair(i,j)
-#define fi first
-#define se second
-#define pii pair<ll,ll>
-#define piii pair<ll,pii>
-using namespace std;
+  /*  
+  LOGIC:
+      We iterate the array in reverse order.Suppose we are at index i.We consider it to be the right end point of one of the subarrays.We then loop over j where 1<=j<=i  which is the left end point of the subarray.We consider we have inserted sum of all subarrays [l,r] where i<=l<=r<n in a trie.So we can compute the maximum xor value of ( sum[j,i] xor x ) where x is a value in trie.After iterating over all j, we insert in the trie sum of subarrays starting at index i. 
+  */
 
-struct trie
-{
-   trie* left;
-   trie* right;
-};
+  /* 
+  IMPLEMENTATION
+  */
 
-trie* get()
-{
-   trie* node = new trie;
-   node->left = NULL;
-   node->right = NULL;
+  #include<bits/stdc++.h>
+  #define ll long long int
+  #define fr(i,n) for(ll i=0; i<n; i++)
+  #define fre(i,n) for(ll i=1; i<=n; i++)
+  #define pb push_back
+  #define mp(i,j) make_pair(i,j)
+  #define fi first
+  #define se second
+  #define pii pair<ll,ll>
+  #define piii pair<ll,pii>
+  using namespace std;
 
-   return node;
-}
+  struct trie
+  {
+     trie* left;
+     trie* right;
+  };
 
-void insert(trie*& root, ll x)
-{
-   if(root==NULL)
-      root = get();
+  trie* get()
+  {
+     trie* node = new trie;
+     node->left = NULL;
+     node->right = NULL;
 
-   trie* head = root;
-   for(int i=32; i>=0; i--)
-   {
-      int b = (x>>i)&1;
+     return node;
+  }
 
-      if(b==1)
-      {
-         if(head->right==NULL)
-            head->right = get();
-         head = head->right;
-      }
-      else
-      {
-         if(head->left==NULL)
-            head->left = get();
-         head = head->left;
-      }
-   }
-}
+  void insert(trie*& root, ll x)
+  {
+     if(root==NULL)
+        root = get();
 
-ll query(trie* root, ll x)
-{
-   ll cur = 0;
-   for(int i=32; i>=0; i--)
-   {
-      int b = (x>>i)&1;
+     trie* head = root;
+     for(int i=32; i>=0; i--)
+     {
+        int b = (x>>i)&1;
 
-      if(b==1)
-      {
-         if(root->left!=NULL)
-         {
-            cur += pow(2,i);
-            root = root->left;
-         }
-         else if(root->right != NULL)
-            root = root->right;
-         else
-            return INT_MIN;
-      }
-      else
-      {
-         if(root->right!=NULL)
-         {
-            cur += pow(2,i);
-            root = root->right;
-         }
-         else if(root->left!=NULL)
-            root = root->left;
-         else
-            return INT_MIN;
-      }
-   }
-   return cur;
-}
-int main()
-{
-   ll n, su = 0;
-   cin>>n;
+        if(b==1)
+        {
+           if(head->right==NULL)
+              head->right = get();
+           head = head->right;
+        }
+        else
+        {
+           if(head->left==NULL)
+              head->left = get();
+           head = head->left;
+        }
+     }
+  }
 
-   ll a[n+1];
-   ll sum[n+1] = {0};
+  ll query(trie* root, ll x)
+  {
+     ll cur = 0;
+     for(int i=32; i>=0; i--)
+     {
+        int b = (x>>i)&1;
 
-   fre(i,n)
-   {
-      cin>>a[i];
-      sum[i] = sum[i-1]+a[i];
-   }
+        if(b==1)
+        {
+           if(root->left!=NULL)
+           {
+              cur += pow(2,i);
+              root = root->left;
+           }
+           else if(root->right != NULL)
+              root = root->right;
+           else
+              return INT_MIN;
+        }
+        else
+        {
+           if(root->right!=NULL)
+           {
+              cur += pow(2,i);
+              root = root->right;
+           }
+           else if(root->left!=NULL)
+              root = root->left;
+           else
+              return INT_MIN;
+        }
+     }
+     return cur;
+  }
+  int main()
+  {
+     ll n, su = 0;
+     cin>>n;
 
-   ll ans = INT_MIN;
+     ll a[n+1];
+     ll sum[n+1] = {0};
 
-   trie* root = NULL;
-   insert(root, a[n]);
-  
+     fre(i,n)
+     {
+        cin>>a[i];
+        sum[i] = sum[i-1]+a[i];
+     }
 
-   for(ll i=n-1; i>=1; i--)
-   {
-      for(ll j=1; j<=i; j++)
-      {
-          ll q = query(root, sum[i]-sum[j-1] );
-          if(q>ans)
-          {
-             ans = q;
-          }
-      }
-      for(ll j=i; j<=n; j++)
-      {
-           ll su = sum[j]-sum[i-1];
-           insert(root, su);
-      }
-     
-   }
-   cout<<ans<<endl;
-}
-```
+     ll ans = INT_MIN;
+
+     trie* root = NULL;
+     insert(root, a[n]);
+
+
+     for(ll i=n-1; i>=1; i--)
+     {
+        for(ll j=1; j<=i; j++)
+        {
+            ll q = query(root, sum[i]-sum[j-1] );
+            if(q>ans)
+            {
+               ans = q;
+            }
+        }
+        for(ll j=i; j<=n; j++)
+        {
+             ll su = sum[j]-sum[i-1];
+             insert(root, su);
+        }
+
+     }
+     cout<<ans<<endl;
+  }
+  ```
 
       
  
