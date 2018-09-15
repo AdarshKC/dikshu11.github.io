@@ -34,7 +34,10 @@
 ## 14 Sep
 
 * solved [C. Palindrome Transformation](http://codeforces.com/problemset/problem/486/C) : [Submission](http://codeforces.com/contest/486/submission/42873234)
-* solved []() : [Submission]()
+
+## 15 Sep
+
+* solved [C. Fixing Typos](http://codeforces.com/problemset/problem/363/C) : [Submission](http://codeforces.com/contest/363/submission/42902282)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
 * solved []() : [Submission]()
