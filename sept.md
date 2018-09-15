@@ -38,6 +38,6 @@
 ## 15 Sep
 
 * solved [C. Fixing Typos](http://codeforces.com/problemset/problem/363/C) : [Submission](http://codeforces.com/contest/363/submission/42902282)
-* solved []() : [Submission]()
+* solved [C. Hacking Cypher](http://codeforces.com/problemset/problem/490/C) : [Submission](http://codeforces.com/contest/490/submission/42903339)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
