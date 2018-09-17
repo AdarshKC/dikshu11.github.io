@@ -39,5 +39,12 @@
 
 * solved [C. Fixing Typos](http://codeforces.com/problemset/problem/363/C) : [Submission](http://codeforces.com/contest/363/submission/42902282)
 * solved [C. Hacking Cypher](http://codeforces.com/problemset/problem/490/C) : [Submission](http://codeforces.com/contest/490/submission/42903339)
+
+
+## 17 Sep
+
+* Gave [Codeforces Round #510 (Div. 2)](http://codeforces.com/contest/1042):
+  * Solved 2 questions
+    * Rank:1419  Rating: 1482 → 1470
 * solved []() : [Submission]()
 * solved []() : [Submission]()
