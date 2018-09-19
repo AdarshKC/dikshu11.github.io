@@ -46,5 +46,11 @@
 * Gave [Codeforces Round #510 (Div. 2)](http://codeforces.com/contest/1042):
   * Solved 2 questions
     * Rank:1419  Rating: 1482 → 1470
+    
+## 19 Sep
+* solved [C. Gargari and Bishops](http://codeforces.com/problemset/problem/463/C) : [Submission](http://codeforces.com/contest/463/submission/43093808)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
+* solved []() : [Submission]()
+* solved []() : [Submission]()
+
