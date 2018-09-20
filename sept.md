@@ -52,7 +52,7 @@
 
 ## 20 Sep
 * solved [C. Pocket Book](http://codeforces.com/problemset/problem/152/C) : [Submission](http://codeforces.com/contest/152/submission/43103443)
-* solved []() : [Submission]()
+* solved [A. Lucky Sum of Digits](http://codeforces.com/problemset/problem/109/A) : [Submission](http://codeforces.com/contest/109/submission/43104390)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
 
