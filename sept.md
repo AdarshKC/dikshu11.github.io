@@ -56,5 +56,5 @@
 * solved [C. Arithmetic Progression](http://codeforces.com/problemset/problem/382/C) : [Submission](http://codeforces.com/contest/382/submission/43107644)
 * solved [A. Fox and Box Accumulation](http://codeforces.com/contest/388/problem/A) : [Submission](http://codeforces.com/contest/388/submission/43144937)
 * solved [9C - Hexadecimal's Numbers](http://codeforces.com/problemset/problem/9/C) : [Submission](http://codeforces.com/contest/9/submission/43150347)
-* solved []() : [Submission]()
+* solved [C. Xenia and Weights](http://codeforces.com/contest/339/problem/C) : [Submission](http://codeforces.com/contest/339/submission/43158427) : Nice problem, solved after seeing editorial.
 * solved []() : [Submission]()
