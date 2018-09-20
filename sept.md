@@ -49,7 +49,9 @@
     
 ## 19 Sep
 * solved [C. Gargari and Bishops](http://codeforces.com/problemset/problem/463/C) : [Submission](http://codeforces.com/contest/463/submission/43093808)
-* solved []() : [Submission]()
+
+## 20 Sep
+* solved [C. Pocket Book](http://codeforces.com/problemset/problem/152/C) : [Submission](http://codeforces.com/contest/152/submission/43103443)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
 * solved []() : [Submission]()
