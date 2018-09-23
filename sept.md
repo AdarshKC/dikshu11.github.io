@@ -57,4 +57,12 @@
 * solved [A. Fox and Box Accumulation](http://codeforces.com/contest/388/problem/A) : [Submission](http://codeforces.com/contest/388/submission/43144937)
 * solved [9C - Hexadecimal's Numbers](http://codeforces.com/problemset/problem/9/C) : [Submission](http://codeforces.com/contest/9/submission/43150347)
 * solved [C. Xenia and Weights](http://codeforces.com/contest/339/problem/C) : [Submission](http://codeforces.com/contest/339/submission/43158427) : Nice problem, solved after seeing editorial.
+
+
+## 23 Sept
+
+* solved [C. Bombs](http://codeforces.com/contest/350/problem/C) : [Submission](http://codeforces.com/contest/350/submission/43339363)
+* solved []() : [Submission]()
+* solved []() : [Submission]()
+* solved []() : [Submission]()
 * solved []() : [Submission]()
