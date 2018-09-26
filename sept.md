@@ -65,6 +65,8 @@
 
 ## 26 Sept
 * solved [377A - Maze](http://codeforces.com/problemset/problem/377/A) : [Submission](http://codeforces.com/contest/377/submission/43449430)
+* solved [A. Ice Skating](http://codeforces.com/contest/217/problem/A) : [Submission](http://codeforces.com/contest/217/submission/43454886)
+* solved []() : [Submission]()
 * solved []() : [Submission]()
 * solved []() : [Submission]()
 * solved []() : [Submission]()
