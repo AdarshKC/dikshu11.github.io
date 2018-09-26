@@ -62,7 +62,9 @@
 ## 23 Sept
 
 * solved [C. Bombs](http://codeforces.com/contest/350/problem/C) : [Submission](http://codeforces.com/contest/350/submission/43339363)
-* solved []() : [Submission]()
+
+## 26 Sept
+* solved [377A - Maze](http://codeforces.com/problemset/problem/377/A) : [Submission](http://codeforces.com/contest/377/submission/43449430)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
 * solved []() : [Submission]()
