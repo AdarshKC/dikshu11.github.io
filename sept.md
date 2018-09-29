@@ -67,6 +67,8 @@
 * solved [377A - Maze](http://codeforces.com/problemset/problem/377/A) : [Submission](http://codeforces.com/contest/377/submission/43449430)
 * solved [A. Ice Skating](http://codeforces.com/contest/217/problem/A) : [Submission](http://codeforces.com/contest/217/submission/43454886)
 * solved [371C - Hamburgers](http://codeforces.com/problemset/problem/371/C) : [Submission](http://codeforces.com/contest/371/submission/43459350)
-* solved []() : [Submission]()
+
+## 29 Sept
+* solved [C. Checkposts](http://codeforces.com/contest/427/problem/C) : [Submission](http://codeforces.com/contest/427/submission/43571428)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
