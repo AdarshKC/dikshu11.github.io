@@ -71,7 +71,7 @@
 ## 29 Sept
 * solved [C. Checkposts](http://codeforces.com/contest/427/problem/C) : [Submission](http://codeforces.com/contest/427/submission/43571428)
 * solved [A. Mashmokh and Numbers](http://codeforces.com/problemset/problem/414/A) : [Submission](http://codeforces.com/contest/414/submission/43583714)
-* solved []() : [Submission]()
+* solved [C. Ladder](http://codeforces.com/problemset/problem/279/C) : [Submission](http://codeforces.com/contest/279/submission/43584983)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
 * solved []() : [Submission]()
