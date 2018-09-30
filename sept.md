@@ -75,6 +75,9 @@
 * Gave [September Lunchtime 2018 Division 2](https://www.codechef.com/LTIME64B) :
   * Solved three questions and 1 partial :
     * Score : 320 Rank: 197 Rating : 1730 (+197)
-* solved []() : [Submission]()
+    
+    
+## 30 Sept
+* solved [C. Division into Teams](http://codeforces.com/problemset/problem/149/C) : [Submission](http://codeforces.com/contest/149/submission/43593261)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
