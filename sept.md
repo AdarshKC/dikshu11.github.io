@@ -72,6 +72,9 @@
 * solved [C. Checkposts](http://codeforces.com/contest/427/problem/C) : [Submission](http://codeforces.com/contest/427/submission/43571428)
 * solved [A. Mashmokh and Numbers](http://codeforces.com/problemset/problem/414/A) : [Submission](http://codeforces.com/contest/414/submission/43583714)
 * solved [C. Ladder](http://codeforces.com/problemset/problem/279/C) : [Submission](http://codeforces.com/contest/279/submission/43584983)
+* Gave [September Lunchtime 2018 Division 2](https://www.codechef.com/LTIME64B) :
+  * Solved three questions and 1 partial :
+    * Score : 320 Rank: 197 Rating : 1730 (+197)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
 * solved []() : [Submission]()
