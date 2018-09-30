@@ -79,5 +79,5 @@
     
 ## 30 Sept
 * solved [C. Division into Teams](http://codeforces.com/problemset/problem/149/C) : [Submission](http://codeforces.com/contest/149/submission/43593261)
-* solved []() : [Submission]()
+* solved [C. Stripe](http://codeforces.com/problemset/problem/18/C) : [Submission](http://codeforces.com/contest/18/submission/43619317)
 * solved []() : [Submission]()
