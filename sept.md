@@ -81,6 +81,4 @@
 * solved [C. Division into Teams](http://codeforces.com/problemset/problem/149/C) : [Submission](http://codeforces.com/contest/149/submission/43593261)
 * solved [C. Stripe](http://codeforces.com/problemset/problem/18/C) : [Submission](http://codeforces.com/contest/18/submission/43619317)
 * solved [A. Mafia](http://codeforces.com/problemset/problem/348/A) : [Submission](http://codeforces.com/contest/348/submission/43624113)
-* solved []() : [Submission]()
-* solved []() : [Submission]()
-* solved []() : [Submission]()
+
