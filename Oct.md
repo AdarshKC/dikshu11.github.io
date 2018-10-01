@@ -5,7 +5,7 @@
 * Solved [A. Cows and Sequence](http://codeforces.com/problemset/problem/283/A) : [Submission](http://codeforces.com/contest/283/submission/43645354)
 * Solved [C. To Add or Not to Add](http://codeforces.com/contest/231/problem/C) : [Submission](http://codeforces.com/contest/231/submission/43650324)
 * Solved [A. Xor-tree](http://codeforces.com/contest/429/problem/A) : [Submission](http://codeforces.com/contest/429/submission/43651193)
-* Solved []() : [Submission]()
+* Solved [A. LCM Challenge](http://codeforces.com/problemset/problem/235/A) : [Submission](http://codeforces.com/contest/235/submission/43655309)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
 * solved []() : [Submission]()
