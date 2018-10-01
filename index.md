@@ -19,3 +19,4 @@
 * [July 2018 Journal](/July.md/)
 * [August 2018 Journal](/august.md/)
 * [September 2018 Journal](/sept.md/)
+* [October 2018 Journal](/Oct.md/)
