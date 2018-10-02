@@ -14,5 +14,5 @@
 
 * solved [C. Beautiful Numbers](http://codeforces.com/problemset/problem/300/C) : [Submission](http://codeforces.com/contest/300/submission/43677871)
 * solved [C. Quiz](http://codeforces.com/problemset/problem/337/C) : [Submission](http://codeforces.com/contest/337/submission/43680955)
-* solved []() : [Submission]()
+* solved [A. Replacement](http://codeforces.com/contest/135/problem/A) : [Submission](http://codeforces.com/contest/135/submission/43681488)
 * solved []() : [Submission]()
