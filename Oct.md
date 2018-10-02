@@ -8,7 +8,11 @@
 * Solved [A. LCM Challenge](http://codeforces.com/problemset/problem/235/A) : [Submission](http://codeforces.com/contest/235/submission/43655309)
 * solved [A. Rational Resistance](http://codeforces.com/problemset/problem/343/A) : [Submission](http://codeforces.com/contest/343/submission/43658763)
 * solved [251A - Points on Line](http://codeforces.com/problemset/problem/251/A) : [Submission](http://codeforces.com/contest/251/submission/43659307)
-* solved []() : [Submission]()
+
+
+# 2 Oct 
+
+* solved [C. Beautiful Numbers](http://codeforces.com/problemset/problem/300/C) : [Submission](http://codeforces.com/contest/300/submission/43677871)
 * solved []() : [Submission]()
 * solved []() : [Submission]()
 * solved []() : [Submission]()
