@@ -20,3 +20,6 @@
 ## 3 Oct
 
 * solved [C. Little Frog](http://codeforces.com/problemset/problem/53/C) : [Submission](http://codeforces.com/contest/53/submission/43724625)
+* solved [A. Lucky Sum](http://codeforces.com/problemset/problem/121/A) : [Submission](http://codeforces.com/contest/121/submission/43725453)
+* solved []() : [Submission]()
+* solved []() : [Submission]()
