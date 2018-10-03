@@ -16,3 +16,7 @@
 * solved [C. Quiz](http://codeforces.com/problemset/problem/337/C) : [Submission](http://codeforces.com/contest/337/submission/43680955)
 * solved [A. Replacement](http://codeforces.com/contest/135/problem/A) : [Submission](http://codeforces.com/contest/135/submission/43681488)
 * solved [474C - Captain Marmot](http://codeforces.com/problemset/problem/474/C) : [Submission](http://codeforces.com/contest/474/submission/43703110)
+
+## 3 Oct
+
+* solved [C. Little Frog](http://codeforces.com/problemset/problem/53/C) : [Submission](http://codeforces.com/contest/53/submission/43724625)
