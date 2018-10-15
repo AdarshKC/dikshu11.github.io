@@ -22,8 +22,8 @@
 * solved [C. Little Frog](http://codeforces.com/problemset/problem/53/C) : [Submission](http://codeforces.com/contest/53/submission/43724625)
 * solved [A. Lucky Sum](http://codeforces.com/problemset/problem/121/A) : [Submission](http://codeforces.com/contest/121/submission/43725453)
 * solved [A. Triangle](http://codeforces.com/problemset/problem/407/A) : [Submission](http://codeforces.com/contest/407/submission/43730925)
-* solved []() : [Submission]()
-* solved []() : [Submission]()
-* solved []() : [Submission]()
-* solved []() : [Submission]()
-* solved []() : [Submission]()
+
+
+## 4 Oct and onwards
+
+  Giving various contests to practice more and more.
