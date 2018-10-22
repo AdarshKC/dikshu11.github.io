@@ -57,6 +57,57 @@
   * [Tutorial](https://www.hackerearth.com/practice/algorithms/string-algorithm/manachars-algorithm/tutorial/)
   * [Video](https://www.youtube.com/watch?v=nbTSfrEfo6M)
   
+  ```
+      /* 
+      Manacher's Algorithm: return longest
+      palindromic substring.*/
+
+      string manacher(string s)
+      {   
+          ll len = s.length();
+
+
+          string ne = "@";
+
+          fr(i,len)
+          {
+              ne+= "#";
+              ne+=s[i];
+          }
+          ne += "#$";
+
+          ll c = 0, r=0;
+
+          len = ne.size();
+
+          ll p[len+1] = {0};
+
+          fre(i,len-2)
+          {
+              ll imirror = 2*c-i;
+
+              if(r>i)
+                  p[i] = min(r-i, p[imirror]);
+
+              while(ne[i+1+p[i]]==ne[i-1-p[i]])
+                  p[i]++;
+
+              if(i+p[i]>r)
+                  c=i, r = i+p[i];
+
+          }
+          ll mlen = 0, cind = 0;
+
+          fre(i,len-2)
+          {
+              if(p[i]>mlen)
+                  mlen = p[i], cind = i;
+          }
+          return s.substr((cind-mlen-1)/2, mlen);
+
+      }
+  ```
+  
 **Kadane’s Algorithm** : Used to find the sum of contiguous subarray within a one-dimensional array of numbers which has the largest sum.
  * [Tutorial](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
  * [Video](https://www.youtube.com/watch?v=99ssGWhLPUE)
