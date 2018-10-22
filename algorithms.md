@@ -534,10 +534,113 @@ Implementation:
      cout<<ans<<endl;
   }
   ```
+  ```
+  /*
+   We have a dictionary that we are going to create everytime we add a word in it and this task is denoted by "add word"    and later we try to find out the number of words in dictionary with the prefix which is denoted by "find prefix". We are given the value of n which simply means the number of tasks we perform and it is the first line. The next n lines contains tasks to performed as stated above either as "add word" or "find prefix".Note the " is just for making it clear .
 
-      
- 
+  Input Format
+
+  The first line contains a single integer n , denoting the number of operations to perform. Each line i of the n     subsequent lines contains an operation in one of the two forms defined above.
+    
+  */
+  /*
+   SOLUTION
+   */
    
+   #include<bits/stdc++.h>
+  #define ll long long int
+  #define fr(i,n) for(ll i=0; i<n; i++)
+  #define fre(i,n) for(ll i=1; i<=n; i++)
+  #define pb push_back
+  #define mp(i,j) make_pair(i,j)
+  #define fi first
+  #define se second
+  #define pii pair<ll,ll>
+  #define piii pair<ll,pii>
+  using namespace std;
+
+  map<string, ll> ms;
+  struct trie
+  {
+     map<char, trie* > ma; 
+     ll w;
+  };
+
+  trie* get()
+  {
+     trie* node = new trie;
+
+     node->w = 0;
+
+     return node;
+  }
+
+  void insert(trie*& head, string s)
+  {
+     if(head== NULL)
+        head = get();
+
+     ll n =  s.length();
+     trie* curr = head;
+
+     for(ll i=0; i<n; i++)
+     {
+        if(curr->ma.find(s[i]) == curr->ma.end())
+           curr->ma[s[i]] = get();
+
+        curr->w ++;
+        curr = curr->ma[s[i]];
+     }
+
+
+  }
+
+  void search(trie* head, string s)
+  {
+     trie* curr = head;
+     if(head==NULL)
+     {
+           cout<<"0"<<endl;
+           return;
+     }   
+     ll n = s.length();
+
+     for(int i=0; i<n; i++)
+     {
+        if(curr->ma.find(s[i]) == curr->ma.end())
+        {
+           cout<<"0"<<endl;
+           return;
+        }
+        curr = curr->ma[s[i]];
+     }
+
+     cout<<curr->w+ms[s]<<endl;
+  }
+  int main()
+  {
+     ll n;
+     cin>>n;
+     string s,x;
+
+     trie* head = NULL;
+
+     fr(i,n)
+     {
+        cin>>s>>x;
+        if(s=="add")
+        {
+           ms[x]++;
+           insert(head, x);
+        }
+        else  
+           search(head, x);
+
+     }
+  }
+    
+  ```
+
     
     
        
