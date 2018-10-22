@@ -588,8 +588,9 @@ Implementation:
         if(curr->ma.find(s[i]) == curr->ma.end())
            curr->ma[s[i]] = get();
 
-        curr->w ++;
+        
         curr = curr->ma[s[i]];
+        curr->w ++;
      }
 
 
@@ -615,7 +616,7 @@ Implementation:
         curr = curr->ma[s[i]];
      }
 
-     cout<<curr->w+ms[s]<<endl;
+     cout<<curr->w<<endl;
   }
   int main()
   {
