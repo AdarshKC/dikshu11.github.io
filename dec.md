@@ -14,5 +14,5 @@
 
 * Solved [A. Hongcow Builds A Nation](https://codeforces.com/problemset/problem/744/A) : [Submission](https://codeforces.com/contest/744/submission/46691178)
 * Solved [D. Colorful Graph](https://codeforces.com/contest/246/problem/D) : [Submission](https://codeforces.com/contest/246/submission/46693335)
-* Solved []() : [Submission]()
+* Solved [D. Unbearable Controversy of Being](https://codeforces.com/problemset/problem/489/D) : [Submission](https://codeforces.com/contest/489/submission/46694851)
 * Solved []() : [Submission]()
