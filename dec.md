@@ -13,6 +13,6 @@
 ## 6 Dec 
 
 * Solved [A. Hongcow Builds A Nation](https://codeforces.com/problemset/problem/744/A) : [Submission](https://codeforces.com/contest/744/submission/46691178)
-* Solved []() : [Submission]()
+* Solved [D. Colorful Graph](https://codeforces.com/contest/246/problem/D) : [Submission](https://codeforces.com/contest/246/submission/46693335)
 * Solved []() : [Submission]()
 * Solved []() : [Submission]()
