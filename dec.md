@@ -9,5 +9,10 @@
 * Solved [C. Valera and Elections](https://codeforces.com/problemset/problem/369/C) : [Submission](https://codeforces.com/contest/369/submission/46660765)
 * Solved [B. New Year Permutation](https://codeforces.com/problemset/problem/500/B) : [Submission](https://codeforces.com/contest/500/submission/46659583)
 * Solved [A. Party](https://codeforces.com/problemset/problem/115/A) : [Submission](https://codeforces.com/contest/115/submission/46660987)
+
+## 6 Dec 
+
+* Solved [A. Hongcow Builds A Nation](https://codeforces.com/problemset/problem/744/A) : [Submission](https://codeforces.com/contest/744/submission/46691178)
+* Solved []() : [Submission]()
 * Solved []() : [Submission]()
 * Solved []() : [Submission]()
